@@ -1,17 +1,17 @@
-# ELMEval: Evaluating Large Language Models in Entity Linking for Low-Resource Languages: Insights from Indonesian
+# ELMEval: a framework to evaluate Large Language Models (LLMs) in EL tasks for Low-resorurce Languages (LrLs) to assess their effectiveness in data annotation.
 
 ## Short description
-An evaluation framework of LLMs, including GPT-4 and Llama-3, in the EL task for LrLs, with a focus on Indonesian.
+ELMEval evaluates multilingual LLMs, including GPT-3.5, GPT-4, and LLaMA-3, as well as two monolingual Indonesian LLMs, Komodo [20] and Merak,4 in EL tasks. 
 
 ## Usage
 
 ### Datasets
 
-Datasets comprise two different kinds of datasets derived from [IndEL dataset](https://github.com/dice-group/IndEL):
-1. General-domain: consists of train, validation and test set.
-2. Specific-domain: consists of train, validation and test set.
+Datasets comprised of two different kinds of datasets derived from [IndEL dataset](https://github.com/dice-group/IndEL):
+1. General-domain
+2. Specific-domain
 
-**Note:**: Rasio for spliting the datasets are a train set of 80%, and for 10% for each validation and test set. 
+**Note:**: Ratio for spliting the datasets are a train set of 80%, and for 10% for each validation and test set. 
 
 ### Instruction Template
 
