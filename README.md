@@ -14,7 +14,7 @@ IndEL is the first Indonesian EL benchmark dataset, covering both general and sp
 
 ## Evaluation Process
 Similar to human-based annotation, where annotation guidelines ensure standard and correct results, we define relevant prompts for the LLMs. These prompts comprise two parts: task description and desired outputs, as shown below. 
-| **Instruction Template** |                                                                                           |
+| **Instruction Template**                                                                                             |
 |--------------------------|-------------------------------------------------------------------------------------------|
 | **Task Description**     | Find entities and their corresponding entry links in Wikidata within the following sentence. Use the context of the sentence to determine the correct entries in Wikidata. |
 | **Output Format**        | The output should be formatted as: [entity1=link1, entity2=link2]. No explanations are needed.|
