@@ -1,7 +1,7 @@
 # ELMEval: a framework to evaluate large language models (LLMs) in Entity Linking (EL) tasks for Low-resource Languages (LrLs), specifically in Indonesian
 
 ## Introduction
-We present ELMEval, a framework to evaluate LLMs in EL tasks for LrLs to assess their effectiveness in data annotation. By doing so, we intend to suggest a cost-effective solution for creating or expanding EL benchmark datasets for LrLs. We use IndEL to perform the evaluation in zero-shot and fine-tuning settings with multilingual and Indonesian monolingual LLMs. Multilingual LLMs include GPT-3.5, GPT-4, and LLaMA-3, and monolingual Indonesian LLMs include Komodo and Merak.
+We present ELMEval, a framework designed to evaluate LLMs in EL tasks for LrLs, assessing their effectiveness in data annotation. By doing so, we aim to suggest a cost-effective solution for creating or expanding EL benchmark datasets for LrLs. We use IndEL to perform evaluations in both zero-shot and fine-tuning settings with multilingual and Indonesian monolingual LLMs. The multilingual LLMs include GPT-3.5, GPT-4, and LLaMA-3, while the monolingual Indonesian LLMs include Komodo and Merak.
 
 ## IndEL
 IndEL is the first Indonesian EL benchmark dataset, covers both general and specific domains. It uses Wikidata as the knowledge base and is manually annotated following meticulous guidelines. The entities in the general domain are sourced from the Indonesian NER benchmark dataset, [NER UI](https://github.com/indolem/indolem/tree/main/ner/data/nerui), while those in the specific domain are gathered from [IndQNER](https://github.com/dice-group/IndQNER/tree/main/datasets), an Indonesian NER benchmark dataset based on the Indonesian translation of the Quran. IndEL has been utilized to evaluate five multilingual EL systems, including [Babelfy](http://babelfy.org/), [DBpedia Spotlight](https://www.dbpedia-spotlight.org/), [MAG](https://github.com/dice-group/AGDISTIS), [OpenTapioca](https://github.com/opentapioca/opentapioca), and [WAT](https://sobigdata.d4science.org/web/tagme/wat-api) using [the GERBIL framework](https://gerbil.aksw.org/gerbil/) platform. Details on the dataset as well as experiments results can be seen [here](https://github.com/dice-group/IndEL). 
@@ -15,7 +15,6 @@ Similar to human-based annotation, where annotation guidelines ensure standard a
 | **Sample Sentence**      | Pria kelahiran Bogor, 16 Maret 60 tahun silam itu juga ditunjuk sebagai salah satu direktur Indofood dalam RUPS Juni 2008 silam. (A man born in Bogor, 60 years ago on March 16, was also appointed as one of the directors of Indofood in the General Meeting of Shareholders in June 2008.) |
 
 In the zero-shot setting, we prompt the LLMs using an instruction format, where the prompt includes only the task description and output format. Meanwhile, in fine-tuning setting, the LLMs are provided with detailed prompts and example sentences from the dataset. To support the zero-shot and fine-tuning experiments, we split IndEL into training, validation, and test sets. The split is made with an 8:1:1 ratio. The followings are details on the split:
-
 
 |Domain          |Total Sentences|Train |Validation|Test|
 |----------------|---------------|------|---------------|
