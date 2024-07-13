@@ -15,7 +15,6 @@ Similar to human-based annotation, where annotation guidelines ensure standard a
 | **Sample Sentence**      | Pria kelahiran Bogor, 16 Maret 60 tahun silam itu juga ditunjuk sebagai salah satu direktur Indofood dalam RUPS Juni 2008 silam. (A man born in Bogor, 60 years ago on March 16, was also appointed as one of the directors of Indofood in the General Meeting of Shareholders in June 2008.) |
 
 In the zero-shot setting, we prompt the LLMs using an instruction format, where the prompt includes only the task description and output format. Meanwhile, in fine-tuning setting, the LLMs are provided with detailed prompts and example sentences from the dataset. To support the zero-shot and fine-tuning experiments, we split IndEL into training, validation, and test sets. The split is made with an 8:1:1 ratio. The followings are details on the split:
-
 |Domain          |Total Sentences|Train |Validation|Test|
 |----------------|---------------|------|---------------|
 |General Domain  |2114           |1673  |229       |212 |
