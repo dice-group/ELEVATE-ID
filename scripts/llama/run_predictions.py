@@ -3,6 +3,7 @@ from transformers import AutoModelForCausalLM
 from transformers import AutoTokenizer, pipeline
 import torch
 import re
+import os
 import pandas as pd
 from datasets import Dataset
 
@@ -61,7 +62,7 @@ domain = "general-domain"
 base_model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
 
 # Read CSV files
-test_df = pd.read_csv(f"../datasets/{domain/}test_set.txt")
+test_df = pd.read_csv(f"../../datasets/{domain}/test_set.txt")
 
 # Convert DataFrame to Dataset
 test_dataset = Dataset.from_pandas(test_df.head())
@@ -93,7 +94,17 @@ test_dataset = test_dataset.map(create_input_prompt, remove_columns=['sentence',
 
 # Generate answers for the dataset
 results = test_dataset.map(generate_answer, batched=False)
-f = open(f"data/{domain}/{base_model_name}/results.txt", "w")
+
+# Check data dir and create it if does not exist
+directory_data = 'data'
+if not os.path.exists(directory_data):
+    os.makedirs(directory_data)
+if not os.path.exists(f"{directory_data}/{domain}"):
+    os.makedirs(f"{directory_data}/{domain}")
+if not os.path.exists(f"{directory_data}/{domain}/{base_model_name.split('/')[-1]}"):
+    os.makedirs(f"{directory_data}/{domain}/{base_model_name.split('/')[-1]}")
+    
+f = open(f"data/{domain}/{base_model_name.split('/')[-1]}/results.txt", "w")
 for result in results:
     # Extract values from the output
     values = extract_first_assistant_values(result['generated_text'])
