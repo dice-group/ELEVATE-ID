@@ -82,10 +82,6 @@ python llm-finetuning.py
 
 ## Evaluation Results
 We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using the IndEL dataset in the zero-shot setting. Additionally, we evaluate GPT-3.5 (we did not have access to fine-tune GPT-4), Komodo, LLaMA-3, and Merak in the fine-tuning setting. The followings are the results measured in precision, recall, and F1-score.
-## Metrics Table
-
-## Metrics Table
-
 <table>
   <tr>
     <th colspan="5" style="text-align:center">General Domain with Zero-shot</th>
