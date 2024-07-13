@@ -84,16 +84,18 @@ python llm-finetuning.py
 We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using the IndEL dataset in the zero-shot setting. Additionally, we evaluate GPT-3.5 (we did not have access to fine-tune GPT-4), Komodo, LLaMA-3, and Merak in the fine-tuning setting. The followings are the results measured in precision, recall, and F1-score.
 ## Metrics Table
 
-<table>  
+## Metrics Table
+
+<table>
+  <tr>
+    <th colspan="5" style="text-align:center">General Domain with Zero-shot</th>
+  </tr>
   <tr>
     <th>Metrics</th>
     <th>GPT-4</th>
     <th>Komodo</th>
     <th>LLaMA-3</th>
     <th>Merak</th>
-  </tr>
-  <tr>
-    <th colspan="5" style="text-align:center">General Domain with Zero-shot</th>
   </tr>
   <tr>
     <td>Precision</td>
@@ -111,7 +113,7 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
   </tr>
   <tr>
     <td>F1</td>
-    <td>0.083</td>
+    <td><strong>0.083</strong></td>
     <td>0.000</td>
     <td>0.003</td>
     <td>0.000</td>
@@ -135,14 +137,17 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
   </tr>
   <tr>
     <td>F1</td>
-    <td>0.012</td>
+    <td><strong>0.012</strong></td>
     <td>0.000</td>
     <td>0.000</td>
     <td>0.000</td>
   </tr>
 </table>
 
-<table>  
+<table>
+  <tr>
+    <th colspan="5" style="text-align:center">General Domain with Fine-tuning</th>
+  </tr>
   <tr>
     <th>Metrics</th>
     <th>GPT-3.5</th>
@@ -151,25 +156,22 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
     <th>Merak</th>
   </tr>
   <tr>
-    <th colspan="5" style="text-align:center">General Domain with Fine-tuning</th>
-  </tr>
-  <tr>
     <td>Precision</td>
-    <td>0.385</td>
+    <td><strong>0.385</strong></td>
     <td>0.018</td>
     <td>0.084</td>
     <td>0.045</td>
   </tr>
   <tr>
     <td>Recall</td>
-    <td>0.373</td>
+    <td><strong>0.373</strong></td>
     <td>0.026</td>
     <td>0.117</td>
     <td>0.039</td>
   </tr>
   <tr>
     <td>F1</td>
-    <td>0.373</td>
+    <td><strong>0.373</strong></td>
     <td>0.021</td>
     <td>0.093</td>
     <td>0.041</td>
@@ -179,26 +181,27 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
   </tr>
   <tr>
     <td>Precision</td>
-    <td>0.616</td>
+    <td><strong>0.616</strong></td>
     <td>0.221</td>
     <td>0.415</td>
     <td>0.446</td>
   </tr>
   <tr>
     <td>Recall</td>
-    <td>0.610</td>
+    <td><strong>0.610</strong></td>
     <td>0.471</td>
     <td>0.444</td>
     <td>0.393</td>
   </tr>
   <tr>
     <td>F1</td>
-    <td>0.611</td>
+    <td><strong>0.611</strong></td>
     <td>0.285</td>
     <td>0.409</td>
     <td>0.407</td>
   </tr>
 </table>
+
 
 
 ## Contact
