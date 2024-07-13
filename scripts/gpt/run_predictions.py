@@ -29,7 +29,7 @@ def create_input_prompt(example):
             {"role": "user", "content": example["sentence"]},
         ]
     }
-def read_first_few_lines(file_path, num_lines=0):
+def read_first_few_lines(file_path, num_lines=2):
     lines = []
     try:
         with open(file_path, 'r') as file:
@@ -44,7 +44,8 @@ def read_first_few_lines(file_path, num_lines=0):
 
 
 # Read and display the first few lines of the file
-file_path = "test_final.jsonl"
+domain = "general-domain"
+file_path = f"data/{domain}/test_final.jsonl"
 first_few_lines = read_first_few_lines(file_path)
 linking_results = []
 for line in tqdm(first_few_lines):
@@ -54,7 +55,7 @@ for line in tqdm(first_few_lines):
         results["response"] = []
     linking_results.append((line['sent_id'], results['response']))
 
-f = open("linking-results-0shot.txt", "w")
+f = open("results.txt", "w")
 for linking_result in linking_results:
     sent_id, links = linking_result
     f.write(f"{sent_id}\t{links}\n")
