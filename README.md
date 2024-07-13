@@ -157,14 +157,14 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
   </tr>
   <tr>
     <td>Precision</td>
-    <td><strong>0.385</strong></td>
+    <td>0.385</td>
     <td>0.018</td>
     <td>0.084</td>
     <td>0.045</td>
   </tr>
   <tr>
     <td>Recall</td>
-    <td><strong>0.373</strong></td>
+    <td>0.373</td>
     <td>0.026</td>
     <td>0.117</td>
     <td>0.039</td>
@@ -181,14 +181,14 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
   </tr>
   <tr>
     <td>Precision</td>
-    <td><strong>0.616</strong></td>
+    <td>0.616</td>
     <td>0.221</td>
     <td>0.415</td>
     <td>0.446</td>
   </tr>
   <tr>
     <td>Recall</td>
-    <td><strong>0.610</strong></td>
+    <td>0.610</td>
     <td>0.471</td>
     <td>0.444</td>
     <td>0.393</td>
