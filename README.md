@@ -82,16 +82,18 @@ python llm-finetuning.py
 
 ## Evaluation Results
 We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using the IndEL dataset in the zero-shot setting. Additionally, we evaluate GPT-3.5 (we did not have access to fine-tune GPT-4), Komodo, LLaMA-3, and Merak in the fine-tuning setting. The followings are the results measured in precision, recall, and F1-score.
-<table>
-  <tr>
-    <th colspan="5">General Domain with Zero-shot</th>
-  </tr>
+## Metrics Table
+
+<table>  
   <tr>
     <th>Metrics</th>
     <th>GPT-4</th>
     <th>Komodo</th>
     <th>LLaMA-3</th>
     <th>Merak</th>
+  </tr>
+  <tr>
+    <th colspan="5" style="text-align:center">General Domain with Zero-shot</th>
   </tr>
   <tr>
     <td>Precision</td>
@@ -115,7 +117,7 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
     <td>0.000</td>
   </tr>
   <tr>
-    <th colspan="5">Specific Domain with Zero-shot</th>
+    <th colspan="5" style="text-align:center">Specific Domain with Zero-shot</th>
   </tr>
   <tr>
     <td>Precision</td>
@@ -138,8 +140,18 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
     <td>0.000</td>
     <td>0.000</td>
   </tr>
+</table>
+
+<table>  
   <tr>
-    <th colspan="5">General Domain with Fine-tuning</th>
+    <th>Metrics</th>
+    <th>GPT-3.5</th>
+    <th>Komodo</th>
+    <th>LLaMA-3</th>
+    <th>Merak</th>
+  </tr>
+  <tr>
+    <th colspan="5" style="text-align:center">General Domain with Fine-tuning</th>
   </tr>
   <tr>
     <td>Precision</td>
@@ -163,7 +175,7 @@ We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using th
     <td>0.041</td>
   </tr>
   <tr>
-    <th colspan="5">Specific Domain with Fine-tuning</th>
+    <th colspan="5" style="text-align:center">Specific Domain with Fine-tuning</th>
   </tr>
   <tr>
     <td>Precision</td>
