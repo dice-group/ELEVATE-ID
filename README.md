@@ -13,12 +13,26 @@ We present ELMEval, a framework designed to evaluate LLMs in EL tasks for LrLs, 
 IndEL is the first Indonesian EL benchmark dataset, covering both general and specific domains. It uses Wikidata as the knowledge base and is manually annotated following meticulous guidelines. The entities in the general domain are sourced from the Indonesian NER benchmark dataset, [NER UI](https://github.com/indolem/indolem/tree/main/ner/data/nerui), while those in the specific domain are gathered from [IndQNER](https://github.com/dice-group/IndQNER/tree/main/datasets), an Indonesian NER benchmark dataset based on the Indonesian translation of the Quran. IndEL has been utilized to evaluate five multilingual EL systems, including [Babelfy](http://babelfy.org/), [DBpedia Spotlight](https://www.dbpedia-spotlight.org/), [MAG](https://github.com/dice-group/AGDISTIS), [OpenTapioca](https://github.com/opentapioca/opentapioca), and [WAT](https://sobigdata.d4science.org/web/tagme/wat-api) using [the GERBIL framework](https://gerbil.aksw.org/gerbil/) platform. Details on the dataset as well as experiment results can be seen [here](https://github.com/dice-group/IndEL). 
 
 ## Evaluation Process
-Similar to human-based annotation, where annotation guidelines ensure standard and correct results, we define relevant prompts for the LLMs. These prompts comprise two parts: task description and desired outputs, as shown below. 
-| **Instruction Template**                                                                                             |
-|--------------------------|-------------------------------------------------------------------------------------------|
-| **Task Description**     | Find entities and their corresponding entry links in Wikidata within the following sentence. Use the context of the sentence to determine the correct entries in Wikidata. |
-| **Output Format**        | The output should be formatted as: [entity1=link1, entity2=link2]. No explanations are needed.|
-| **Sample Sentence**      | Pria kelahiran Bogor, 16 Maret 60 tahun silam itu juga ditunjuk sebagai salah satu direktur Indofood dalam RUPS Juni 2008 silam. (A man born in Bogor, 60 years ago on March 16, was also appointed as one of the directors of Indofood in the General Meeting of Shareholders in June 2008.) |
+
+Similar to human-based annotation, where annotation guidelines ensure standard and correct results, we define relevant prompts for the LLMs. These prompts comprise two parts: task description and desired outputs, as shown below.
+
+<table>
+  <tr>
+    <th colspan="2" style="text-align:center">Instruction Template</th>
+  </tr>
+  <tr>
+    <td><strong>Task Description</strong></td>
+    <td>Find entities and their corresponding entry links in Wikidata within the following sentence. Use the context of the sentence to determine the correct entries in Wikidata.</td>
+  </tr>
+  <tr>
+    <td><strong>Output Format</strong></td>
+    <td>The output should be formatted as: [entity1=link1, entity2=link2]. No explanations are needed.</td>
+  </tr>
+  <tr>
+    <td><strong>Sample Sentence</strong></td>
+    <td><i>Pria kelahiran Bogor, 16 Maret 60 tahun silam itu juga ditunjuk sebagai salah satu direktur Indofood dalam RUPS Juni 2008 silam.</i> (A man born in Bogor, 60 years ago on March 16, was also appointed as one of the directors of Indofood in the General Meeting of Shareholders in June 2008.)</td>
+  </tr>
+</table>
 
 In the zero-shot setting, we prompt the LLMs using an instruction format, where the prompt includes only the task description and output format. Meanwhile, in the fine-tuning setting, the LLMs are provided with detailed prompts and example sentences from the dataset. To support the zero-shot and fine-tuning experiments, we split IndEL into training, validation, and test sets using an 8:1:1 ratio. The following are the details of the split:
 
