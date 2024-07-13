@@ -1,4 +1,5 @@
 # ELMEval: a framework to evaluate large language models (LLMs) in Entity Linking (EL) tasks for Low-resource Languages (LrLs), specifically in Indonesian
+**Ria Hari Gusmita, Asep Fajar Firmansyah, Hamada Zahera, Axel-Cyrille Ngonga Ngomo**
 
 ## Introduction
 We present ELMEval, a framework designed to evaluate LLMs in EL tasks for LrLs, assessing their effectiveness in data annotation. By doing so, we aim to suggest a cost-effective solution for creating or expanding EL benchmark datasets for LrLs. We use IndEL to perform evaluations in both zero-shot and fine-tuning settings with multilingual and Indonesian monolingual LLMs. The multilingual LLMs include [GPT-3.5](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4), [GPT-4](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4), and [LLaMA-3](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct), while the monolingual Indonesian LLMs include [Komodo](https://huggingface.co/Yellow-AI-NLP/komodo-7b-base) and [Merak](https://huggingface.co/Ichsan2895/Merak-7B-v4-GGUF).
