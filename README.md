@@ -82,27 +82,112 @@ python llm-finetuning.py
 
 ## Evaluation Results
 We evaluate four LLMs, GPT-4, Komodo, LLaMA-3, and Merak in the EL task using the IndEL dataset in the zero-shot setting. Additionally, we evaluate GPT-3.5 (we did not have access to fine-tune GPT-4), Komodo, LLaMA-3, and Merak in the fine-tuning setting. The followings are the results measured in precision, recall, and F1-score.
-|Metrics         |GPT-4 |Komodo|LLaMA-3|Merak |
-|----------------|------|------|-------|------|
-|General Domain with Zero-shot  	      |	
-|Precision       |0.083 |0.000 |0.003  |0.000 |
-|Recall          |0.089 |0.000 |0.003  |0.000 |
-|F1              |0.083 |0.000 |0.003  |0.000 |
-|Specific Domain with Zero-shot               |	
-|Precision       |0.010 |0.000 |0.000  |0.000 |
-|Recall          |0.016 |0.000 |0.000  |0.000 |
-|F1              |0.012 |0.000 |0.000  |0.000 |
+<table>
+  <tr>
+    <th colspan="5">General Domain with Zero-shot</th>
+  </tr>
+  <tr>
+    <th>Metrics</th>
+    <th>GPT-4</th>
+    <th>Komodo</th>
+    <th>LLaMA-3</th>
+    <th>Merak</th>
+  </tr>
+  <tr>
+    <td>Precision</td>
+    <td>0.083</td>
+    <td>0.000</td>
+    <td>0.003</td>
+    <td>0.000</td>
+  </tr>
+  <tr>
+    <td>Recall</td>
+    <td>0.089</td>
+    <td>0.000</td>
+    <td>0.003</td>
+    <td>0.000</td>
+  </tr>
+  <tr>
+    <td>F1</td>
+    <td>0.083</td>
+    <td>0.000</td>
+    <td>0.003</td>
+    <td>0.000</td>
+  </tr>
+  <tr>
+    <th colspan="5">Specific Domain with Zero-shot</th>
+  </tr>
+  <tr>
+    <td>Precision</td>
+    <td>0.010</td>
+    <td>0.000</td>
+    <td>0.000</td>
+    <td>0.000</td>
+  </tr>
+  <tr>
+    <td>Recall</td>
+    <td>0.016</td>
+    <td>0.000</td>
+    <td>0.000</td>
+    <td>0.000</td>
+  </tr>
+  <tr>
+    <td>F1</td>
+    <td>0.012</td>
+    <td>0.000</td>
+    <td>0.000</td>
+    <td>0.000</td>
+  </tr>
+  <tr>
+    <th colspan="5">General Domain with Fine-tuning</th>
+  </tr>
+  <tr>
+    <td>Precision</td>
+    <td>0.385</td>
+    <td>0.018</td>
+    <td>0.084</td>
+    <td>0.045</td>
+  </tr>
+  <tr>
+    <td>Recall</td>
+    <td>0.373</td>
+    <td>0.026</td>
+    <td>0.117</td>
+    <td>0.039</td>
+  </tr>
+  <tr>
+    <td>F1</td>
+    <td>0.373</td>
+    <td>0.021</td>
+    <td>0.093</td>
+    <td>0.041</td>
+  </tr>
+  <tr>
+    <th colspan="5">Specific Domain with Fine-tuning</th>
+  </tr>
+  <tr>
+    <td>Precision</td>
+    <td>0.616</td>
+    <td>0.221</td>
+    <td>0.415</td>
+    <td>0.446</td>
+  </tr>
+  <tr>
+    <td>Recall</td>
+    <td>0.610</td>
+    <td>0.471</td>
+    <td>0.444</td>
+    <td>0.393</td>
+  </tr>
+  <tr>
+    <td>F1</td>
+    <td>0.611</td>
+    <td>0.285</td>
+    <td>0.409</td>
+    <td>0.407</td>
+  </tr>
+</table>
 
-|Metrics         |GPT-3.5|Komodo|LLaMA-3|Merak |
-|----------------|-------|------|-------|------|
-|General Domain with Fine-tuning               |	
-|Precision       |0.385  |0.018 |0.084  |0.045 |
-|Recall          |0.373  |0.026 |0.117  |0.039 |
-|F1              |0.373  |0.021 |0.093  |0.041 |
-|Specific Domain with Fine-tuning              |
-|Precision       |0.616  |0.221 |0.415  |0.446 |
-|Recall          |0.610  |0.471 |0.444  |0.393 |
-|F1              |0.611  |0.285 |0.409  |0.407 |
 
 ## Contact
 If you have any questions or feedbacks, feel free to contact us at ria.hari.gusmita@uni-paderborn.de or ria.gusmita@uinjkt.ac.id
