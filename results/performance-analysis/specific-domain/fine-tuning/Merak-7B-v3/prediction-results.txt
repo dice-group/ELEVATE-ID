@@ -1,0 +1,263 @@
+2243	[]
+176	[]
+913	[]
+1331	Allah=http://www.wikidata.org/entity/Q2095353
+2605	Allah=http://www.wikidata.org/entity/Q2095353 bangkai=http://www.wikidata.org/entity/Q11641355 darah=http://www.wikidata.org/entity/Q11641355 daging babi=http://www.wikidata.org/entity/Q12200166 hewan yang disembelih dengan ( menyebut nama ) selain Allah=http://www.wikidata.org/entity/Q11641355
+813	[]
+582	[]
+2298	Allah=http://www.wikidata.org/entity/Q2095353, Hud=http://www.wikidata.org/entity/Q1603644, Samud=http://www.wikidata.org/entity/Q1729769, Saleh=http://www.wikidata.org/entity/Q1610557
+2106	[]
+1487	Allah=http://www.wikidata.org/entity/Q2095353
+1968	[]
+1186	Allah=http://www.wikidata.org/entity/Q2095353
+195	[]
+2426	Allah=http://www.wikidata.org/entity/Q2095353
+2252	[]
+71	Muhammad=http://www.wikidata.org/entity/Q9458, Taurat=http://www.wikidata.org/entity/Q1514253, Injil=http://www.wikidata.org/entity/Q1514253
+1607	[]
+597	[]
+930	Allah=http://www.wikidata.org/entity/Q2095353
+33	Allah=http://www.wikidata.org/entity/Q2095353, Musa=http://www.wikidata.org/entity/Q1220532
+2399	Fir'aun=http://www.wikidata.org/entity/Q1757353, Bani Israil=http://www.wikidata.org/entity/Q449, Tuhan=http://www.wikidata.org/entity/Q2095353
+2493	Allah=http://www.wikidata.org/entity/Q2095353
+45	[]
+57	Musa=http://www.wikidata.org/entity/Q1280233
+1420	Al-Qur'an=http://www.wikidata.org/entity/Q428
+2617	[]
+835	Allah=http://www.wikidata.org/entity/Q2095353
+830	[]
+388	Allah=http://www.wikidata.org/entity/Q2095353
+1238	[]
+931	Allah=http://www.wikidata.org/entity/Q2095353, Muhammad=http://www.wikidata.org/entity/Q9858, Yahudi=http://www.wikidata.org/entity/Q24458, Nasrani=http://www.wikidata.org/entity/Q11631, Taurat=http://www.wikidata.org/entity/Q3090677, Injil=http://www.wikidata.org/entity/Q1658825, Islam=http://www.wikidata.org/entity/Q1980653
+803	Allah=http://www.wikidata.org/entity/Q2095353, Ibrahim=http://www.wikidata.org/entity/Q1884592
+1742	Allah=http://www.wikidata.org/entity/Q2095353
+1548	[]
+606	[]
+1978	Al-Qur'an=http://www.wikidata.org/entity/Q428
+322	[]
+2135	[]
+1128	Allah=http://www.wikidata.org/entity/Q2095353
+2492	Allah=http://www.wikidata.org/entity/Q2095353, bumi=http://www.wikidata.org/entity/Q2
+1595	[]
+211	Allah=http://www.wikidata.org/entity/Q2095353
+790	[]
+2291	Allah=http://www.wikidata.org/entity/Q2095353
+1265	Allah=http://www.wikidata.org/entity/Q2095353
+1745	[]
+875	[]
+2566	[]
+679	Allah=http://www.wikidata.org/entity/Q2095353
+1866	Allah=http://www.wikidata.org/entity/Q2095353
+603	Allah=http://www.wikidata.org/entity/Q2095353
+2410	[]
+696	[]
+74	Allah=http://www.wikidata.org/entity/Q2095353, bumi=http://www.wikidata.org/entity/Q2
+1851	[]
+212	Allah=http://www.wikidata.org/entity/Q2095353
+742	Allah=http://www.wikidata.org/entity/Q2095353
+423	[]
+403	[]
+912	[]
+2230	[]
+2126	[]
+1193	[]
+529	Allah=http://www.wikidata.org/entity/Q2095353
+2482	Allah=http://www.wikidata.org/entity/Q2095353
+2542	[]
+299	[]
+174	[]
+644	Allah=http://www.wikidata.org/entity/Q2095353
+2240	Muhammad=http://www.wikidata.org/entity/Q9458
+942	[]
+2365	Allah=http://www.wikidata.org/entity/Q2095353
+2477	[]
+408	Allah=http://www.wikidata.org/entity/Q2095353
+784	[]
+932	[]
+2241	Muhammad=http://www.wikidata.org/entity/Q9458, Allah=http://www.wikidata.org/entity/Q2095353
+1412	Allah=http://www.wikidata.org/entity/Q2095353, Muhammad=http://www.wikidata.org/entity/Q9858
+2019	[]
+2535	Allah=http://www.wikidata.org/entity/Q2095353
+1879	[]
+2015	[]
+1062	[]
+1160	Allah=http://www.wikidata.org/entity/Q2095353
+818	Allah=http://www.wikidata.org/entity/Q2095353
+766	[]
+44	[]
+1911	[]
+1457	[]
+2595	[]
+1998	[]
+903	Allah=http://www.wikidata.org/entity/Q2095353, Al-Qur'an=http://www.wikidata.org/entity/Q428, Muhammad=http://www.wikidata.org/entity/Q9888
+247	[]
+1357	Al-Qur'an=http://www.wikidata.org/entity/Q2007053, hari Sabat=http://www.wikidata.org/entity/Q1975536
+2100	[]
+768	[]
+2331	[]
+1957	[]
+652	[]
+222	Allah=http://www.wikidata.org/entity/Q2095353, Al-Qur'an=http://www.wikidata.org/entity/Q2095353
+867	Allah=http://www.wikidata.org/entity/Q2095353
+1551	Allah=http://www.wikidata.org/entity/Q2095353
+1381	Allah=http://www.wikidata.org/entity/Q2095353, Muhammad=http://www.wikidata.org/entity/Q9858, orang-orang yang beriman=http://www.wikidata.org/entity/Q2100835, Rasul ( Nabi Muhammad )=http://www.wikidata.org/entity/Q9858, pemegang kekuasaan ( ululamri )=http://www.wikidata.org/entity/Q2100835
+2186	[]
+663	Allah=http://www.wikidata.org/entity/Q2095353
+2565	Allah=http://www.wikidata.org/entity/Q2095353
+1293	[]
+1570	[]
+415	Allah=http://www.wikidata.org/entity/Q2095353
+2476	[]
+2221	Allah=http://www.wikidata.org/entity/Q2095353, Iblis=http://www.wikidata.org/entity/Q1004252
+1380	Allah=http://www.wikidata.org/entity/Q2095353
+171	[]
+1724	[]
+431	[]
+1475	[]
+1458	Allah=http://www.wikidata.org/entity/Q2095353
+1256	Allah=http://www.wikidata.org/entity/Q2095353
+568	Allah=http://www.wikidata.org/entity/Q2095353
+1135	[]
+991	Muhammad=http://www.wikidata.org/entity/Q9458
+1358	Allah=http://www.wikidata.org/entity/Q2095353
+2360	[]
+1727	Allah=http://www.wikidata.org/entity/Q2095353
+1227	Allah=http://www.wikidata.org/entity/Q2095353
+1660	[]
+1456	[]
+681	Allah=http://www.wikidata.org/entity/Q2095353
+2467	[]
+437	[]
+1094	Allah=http://www.wikidata.org/entity/Q2095353, Muhammad=http://www.wikidata.org/entity/Q9458
+1951	Allah=http://www.wikidata.org/entity/Q2095353
+189	Allah=http://www.wikidata.org/entity/Q2095353
+234	Allah=http://www.wikidata.org/entity/Q2095353, Muhammad=http://www.wikidata.org/entity/Q9458
+979	Allah=http://www.wikidata.org/entity/Q2095353, Bani Israil=http://www.wikidata.org/entity/Q2100293, Isa=http://www.wikidata.org/entity/Q1227568
+694	[]
+808	Allah=http://www.wikidata.org/entity/Q2095353
+1592	Allah=http://www.wikidata.org/entity/Q2095353
+2411	[]
+1744	[]
+1711	[]
+255	Alif Lām Mīm=http://www.wikidata.org/entity/Q30653, Mīm=http://www.wikidata.org/entity/Q30653, Lām=http://www.wikidata.org/entity/Q30653, Alif=http://www.wikidata.org/entity/Q19700543
+1773	Allah=http://www.wikidata.org/entity/Q2095353
+1648	Allah=http://www.wikidata.org/entity/Q2095353
+2159	[]
+412	Allah=http://www.wikidata.org/entity/Q2095353
+1476	Muhammad=http://www.wikidata.org/entity/Q9858
+2117	Allah=http://www.wikidata.org/entity/Q2095353
+1712	Allah=http://www.wikidata.org/entity/Q2095353, Qabil=http://www.wikidata.org/entity/Q2095353, burung gagak=http://www.wikidata.org/entity/Q2572656, tanah=http://www.wikidata.org/entity/Q2
+874	[]
+837	[]
+2506	[]
+655	[]
+2288	[]
+1767	Allah=http://www.wikidata.org/entity/Q2095353
+1653	Muhammad=http://www.wikidata.org/entity/Q9458
+2389	Musa=http://www.wikidata.org/entity/Q1405653, Fir'aun=http://www.wikidata.org/entity/Q138054, kaumnya=http://www.wikidata.org/entity/Q1090053
+2464	Allah=http://www.wikidata.org/entity/Q2095353
+436	Allah=http://www.wikidata.org/entity/Q2095353
+2520	[]
+2485	Allah=http://www.wikidata.org/entity/Q2095353
+1351	[]
+2184	[]
+421	Allah=http://www.wikidata.org/entity/Q2095353
+1928	Allah=http://www.wikidata.org/entity/Q2095353
+980	Allah=http://www.wikidata.org/entity/Q2095353
+1072	[]
+2366	Allah=http://www.wikidata.org/entity/Q2095353
+2040	Allah=http://www.wikidata.org/entity/Q2095353
+933	Allah=http://www.wikidata.org/entity/Q2095353
+197	bumi=http://www.wikidata.org/entity/Q2
+2168	Allah=http://www.wikidata.org/entity/Q2095353
+94	Allah=http://www.wikidata.org/entity/Q2095353, Taurat=http://www.wikidata.org/entity/Q2095353
+658	[]
+2225	[]
+1663	Allah=http://www.wikidata.org/entity/Q2095353
+1510	Muhammad=http://www.wikidata.org/entity/Q9458, Jahanam=http://www.wikidata.org/entity/Q3680008
+135	Allah=http://www.wikidata.org/entity/Q2095353
+533	Allah=http://www.wikidata.org/entity/Q2095353, Taurat=http://www.wikidata.org/entity/Q2095353
+240	[]
+842	Allah=http://www.wikidata.org/entity/Q2095353
+1187	Allah=http://www.wikidata.org/entity/Q2095353
+2457	Allah=http://www.wikidata.org/entity/Q2095353
+720	[]
+820	[]
+1481	Allah=http://www.wikidata.org/entity/Q2095353
+1274	Allah=http://www.wikidata.org/entity/Q2095353
+1191	Allah=http://www.wikidata.org/entity/Q2095353
+2608	Allah=http://www.wikidata.org/entity/Q2095353
+1024	Allah=http://www.wikidata.org/entity/Q2095353, bumi=http://www.wikidata.org/entity/Q2
+179	Muhammad=http://www.wikidata.org/entity/Q9458
+1058	Allah=http://www.wikidata.org/entity/Q2095353
+1221	[]
+757	[]
+965	Allah=http://www.wikidata.org/entity/Q2095353, Zakaria=http://www.wikidata.org/entity/Q13207093, Malaikat=http://www.wikidata.org/entity/Q1900532, Maryam=http://www.wikidata.org/entity/Q1995663
+1784	[]
+1048	Allah=http://www.wikidata.org/entity/Q2095353
+708	Allah=http://www.wikidata.org/entity/Q2095353
+1509	[]
+1115	Allah=http://www.wikidata.org/entity/Q2095353
+1940	[]
+545	[]
+1841	[]
+782	[]
+1407	[]
+839	Allah=http://www.wikidata.org/entity/Q2095353
+2384	[]
+787	Allah=http://www.wikidata.org/entity/Q2095353
+1107	Allah=http://www.wikidata.org/entity/Q2095353
+1787	Allah=http://www.wikidata.org/entity/Q2095353
+458	Muhammad=http://www.wikidata.org/entity/Q9458
+1741	[]
+2586	Allah=http://www.wikidata.org/entity/Q2095353, Muhammad=http://www.wikidata.org/entity/Q9458
+510	Allah=http://www.wikidata.org/entity/Q2095353, Al-Qur'an=http://www.wikidata.org/entity/Q2095353
+2087	Allah=http://www.wikidata.org/entity/Q2095353
+1390	Allah=http://www.wikidata.org/entity/Q2095353
+946	Allah=http://www.wikidata.org/entity/Q2095353
+2512	[]
+2556	[]
+1877	Allah=http://www.wikidata.org/entity/Q2095353
+297	Adam=http://www.wikidata.org/entity/Q2095353
+2076	[]
+2030	Yusuf=http://www.wikidata.org/entity/Q14658732, Musa=http://www.wikidata.org/entity/Q10805159, Harun=http://www.wikidata.org/entity/Q11384059, Ayyub=http://www.wikidata.org/entity/Q14598233, Sulaiman=http://www.wikidata.org/entity/Q13142613, Daud=http://www.wikidata.org/entity/Q14338020, Nuh=http://www.wikidata.org/entity/Q12755929
+1772	[]
+1657	[]
+1303	Allah=http://www.wikidata.org/entity/Q2095353
+169	Allah=http://www.wikidata.org/entity/Q2095353
+1245	[]
+2261	[]
+1378	[]
+1056	Allah=http://www.wikidata.org/entity/Q2095353
+2023	[]
+1713	[]
+1651	[]
+2245	Allah=http://www.wikidata.org/entity/Q2095353
+2237	[]
+1432	[]
+369	[]
+2129	[]
+671	[]
+290	Allah=http://www.wikidata.org/entity/Q2095353, bumi=http://www.wikidata.org/entity/Q2
+1793	Allah=http://www.wikidata.org/entity/Q2095353, Yahudi=http://www.wikidata.org/entity/Q2, tangan Allah=http://www.wikidata.org/entity/Q2095353, tangan merekalah=http://www.wikidata.org/entity/Q2
+227	Al-Qur'an=http://www.wikidata.org/entity/Q2095353
+619	Allah=http://www.wikidata.org/entity/Q2095353, Muhammad=http://www.wikidata.org/entity/Q9458, kehidupan dunia=http://www.wikidata.org/entity/Q1901376
+368	Allah=http://www.wikidata.org/entity/Q2095353
+112	Allah=http://www.wikidata.org/entity/Q2095353
+1405	Allah=http://www.wikidata.org/entity/Q2095353
+1341	Allah=http://www.wikidata.org/entity/Q2095353
+2218	Allah=http://www.wikidata.org/entity/Q2095353
+959	Maryam=http://www.wikidata.org/entity/Q1450693, Allah=http://www.wikidata.org/entity/Q2095353, Zakaria=http://www.wikidata.org/entity/Q1769859
+1101	Allah=http://www.wikidata.org/entity/Q2095353
+928	Allah=http://www.wikidata.org/entity/Q2095353
+52	[]
+2402	[]
+1843	Allah=http://www.wikidata.org/entity/Q2095353
+2369	[]
+1212	[]
+1779	Allah=http://www.wikidata.org/entity/Q2095353
+319	[]
+1269	[]
+2327	[]
+523	[]
+522	Allah=http://www.wikidata.org/entity/Q2095353
