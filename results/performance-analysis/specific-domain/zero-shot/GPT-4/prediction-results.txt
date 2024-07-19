@@ -1,0 +1,263 @@
+2243	 anak cucu Adam=https://www.wikidata.org/wiki/Q91632960,  rasul-rasul=https://www.wikidata.org/wiki/Q10858663,  ayat-ayat-Ku=https://www.wikidata.org/wiki/Q106852249
+176	 Kami=https://www.wikidata.org/wiki/Q114429391,  dosa=https://www.wikidata.org/wiki/Q127354
+913	entity = Allah, entity link = https://www.wikidata.org/wiki/Q2348011
+1331	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+2605	 Allah=https://www.wikidata.org/wiki/Q2348011,  bangkai=https://www.wikidata.org/wiki/Q10737,  darah=https://www.wikidata.org/wiki/Q7870,  daging babi=https://www.wikidata.org/wiki/Q190087,  hewan yang disembelih=https://www.wikidata.org/wiki/Q28823
+813	 batu=https://www.wikidata.org/wiki/Q22731,  hujan=https://www.wikidata.org/wiki/Q35666
+582	 fitnah=https://www.wikidata.org/wiki/Q11835414,  pembunuhan=https://www.wikidata.org/wiki/Q132821
+2298	 Hud=https://www.wikidata.org/wiki/Q175151,  Samud=https://www.wikidata.org/wiki/Q215183,  Saleh=https://www.wikidata.org/wiki/Q206475
+2106	entity = Tuhan, entity link = https://www.wikidata.org/wiki/Q693 ns
+1487	 Allah=https://www.wikidata.org/wiki/Q112,  Al-Alim=https://www.wikidata.org/wiki/Q224298,  Al-Hakim=https://www.wikidata.org/wiki/Q239463
+1968	 setan=https://www.wikidata.org/wiki/Q41662,  kesenangan=https://www.wikidata.org/wiki/Q193556
+1186	 Allah=https://www.wikidata.org/wiki/Q190630,  akhirat=https://www.wikidata.org/wiki/Q3568966,  azab=https://www.wikidata.org/wiki/Q192007
+195	 [] 
+2426	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+2252	 zalim=https://www.wikidata.org/wiki/Q845223,  orang-orang yang beriman=https://www.wikidata.org/wiki/Q432047,  mengerjakan kebajikan=https://www.wikidata.org/wiki/Q5977769
+71	 orang-orang yang bertakwa=https://www.wikidata.org/wiki/Q470351,  zakat=https://www.wikidata.org/wiki/Q191163,  ayat=https://www.wikidata.org/wiki/Q928830,  Rasul=https://www.wikidata.org/wiki/Q175584,  Muhammad=https://www.wikidata.org/wiki/Q9488,  Nabi=https://www.wikidata.org/wiki/Q182429,  ummi=https://www.wikidata.org/wiki/Q3274861,  Taurat=https://www.wikidata.org/wiki/Q81989,  Injil=https://www.wikidata.org/wiki/Q43636
+1607	entity = rasul, entity link = https://www.wikidata.org/wiki/Q10800557
+597	 umrah=https://www.wikidata.org/wiki/Q64906,  haji=https://www.wikidata.org/wiki/Q51633,  tamatu'=https://www.wikidata.org/wiki/Q4671443,  hadyu=https://www.wikidata.org/wiki/Q2981053
+930	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+33	 Musa=https://www.wikidata.org/wiki/Q19945207,  Allah=https://www.wikidata.org/wiki/Q2348011
+2399	 Fir'aun=https://www.wikidata.org/wiki/Q209705,  Bani Israil=https://www.wikidata.org/wiki/Q209323,  Tuhan=https://www.wikidata.org/wiki/Q327",  muslim=https://www.wikidata.org/wiki/Q43204
+2493	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q2348011]
+45	 [] 
+57	entity = Musa, entity link = [https://www.wikidata.org/wiki/Q43275]
+1420	entity = Al-Qur'an, entity link = https://www.wikidata.org/wiki/Quran
+2617	 jalan Tuhan=https://www.wikidata.org/wiki/Q1067753,  hikmah=https://www.wikidata.org/wiki/Q1073436,  pengajaran=https://www.wikidata.org/wiki/Q155083,  debat=https://www.wikidata.org/wiki/Q202615
+835	 Allah=https://www.wikidata.org/wiki/Q234416,  Mahateliti=https://www.wikidata.org/wiki/Q115470440
+830	entity = ulul albab, entity link = [https://www.wikidata.org/wiki/Q21082195]
+388	 Allah=https://www.wikidata.org/wiki/Q112,  Maha Melihat=https://www.wikidata.org/wiki/Q19798623
+1238	entity = Janganlah kamu menukar yang baik dengan yang buruk, entity link = [https://www.wikidata.org/wiki/Q106693771]
+931	 Nabi Muhammad=https://www.wikidata.org/wiki/Q571,  Allah=https://www.wikidata.org/wiki/Q234801,  Yahudi=https://www.wikidata.org/wiki/Q9268,  Nasrani=https://www.wikidata.org/wiki/Q9174,  Taurat=https://www.wikidata.org/wiki/Q81915,  Injil=https://www.wikidata.org/wiki/Q11920,  Islam=https://www.wikidata.org/wiki/Q432
+803	 Ibrahim=https://www.wikidata.org/wiki/Q954,  Allah=https://www.wikidata.org/wiki/Q23435
+1742	 Allah=https://www.wikidata.org/wiki/Q234801,  adil=https://www.wikidata.org/wiki/Q8467
+1548	 pahala dunia=https://www.wikidata.org/wiki/Q22988672,  Allah=https://www.wikidata.org/wiki/Q234801
+606	 musim haji=https://www.wikidata.org/wiki/Q2494
+1978	 Al-Qur'an=https://www.wikidata.org/wiki/Q112,  hari Kiamat=https://www.wikidata.org/wiki/Q192779,  Allah=https://www.wikidata.org/wiki/Q2348011
+322	entity = Penciptamu, entity link = [https://www.wikidata.org/wiki/Q901]
+2135	entity = akhirat, entity link = [https://www.wikidata.org/wiki/Q42410]
+1128	 Allah=https://www.wikidata.org/wiki/Q2348011,  sabar=https://www.wikidata.org/wiki/Q8456
+2492	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+1595	entity = persangkaan, entity link = [https://www.wikidata.org/wiki/Q11209]
+211	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q196]
+790	entity = iman, entity link = [https://www.wikidata.org/wiki/Q9174]
+2291	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q112]
+1265	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+1745	 [] 
+875	 saksi=https://www.wikidata.org/wiki/Q4677219,  jual beli=https://www.wikidata.org/wiki/Q1321868
+2566	 perbuatan keji=https://www.wikidata.org/wiki/Q1071027,  kemungkaran=https://www.wikidata.org/wiki/Q49773,  permusuhan=https://www.wikidata.org/wiki/Q189322
+679	entity = Allah, entity link = https://www.wikidata.org/wiki/Q733
+1866	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+603	entity = Allah, entity link = https://www.wikidata.org/wiki/Q2348011
+2410	 penduduk=https://www.wikidata.org/wiki/Q6256,  kaum Yunus=https://www.wikidata.org/wiki/Q20982951
+696	 talak=https://www.wikidata.org/wiki/Q49645,  halal=https://www.wikidata.org/wiki/Q2994786
+74	 Muhammad=https://www.wikidata.org/wiki/Q571,  Allah=https://www.wikidata.org/wiki/Q2348011
+1851	 kafarat=https://www.wikidata.org/wiki/Q49015,  berpuasa=https://www.wikidata.org/wiki/Q844211
+212	 Allah=https://www.wikidata.org/wiki/Q2348011,  Tuhan=https://www.wikidata.org/wiki/Q693,  kebenaran=https://www.wikidata.org/wiki/Q1151067,  kesesatan=https://www.wikidata.org/wiki/Q737498
+742	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q2348011]
+423	 Allah=https://www.wikidata.org/wiki/Q2348011,  akhirat=https://www.wikidata.org/wiki/Q192909
+403	 Orang-orang kafir=https://www.wikidata.org/wiki/Q41709,  azab=https://www.wikidata.org/wiki/Q504062
+912	entity = Kami, entity link = [https://www.wikidata.org/wiki/Q229291]
+2230	entity = setan, entity link = https://www.wikidata.org/wiki/Q235113
+2126	 kehidupan dunia=https://www.wikidata.org/wiki/Q708695,  kafir=https://www.wikidata.org/wiki/Q48251
+1193	 iman=https://www.wikidata.org/wiki/Q177721,  takwa=https://www.wikidata.org/wiki/Q192679
+529	 orang-orang yang kufur=https://www.wikidata.org/wiki/Q42462,  penggembala=https://www.wikidata.org/wiki/Q505537,  gembalaannya=https://www.wikidata.org/wiki/Q10943,  Mereka=https://www.wikidata.org/wiki/Q42462,  orang-orang yang beriman=https://www.wikidata.org/wiki/Q47064,  Allah=https://www.wikidata.org/wiki/Q2348011
+2482	 rasul=https://www.wikidata.org/wiki/Q206439,  umat=https://www.wikidata.org/wiki/Q41710,  Allah=https://www.wikidata.org/wiki/Q234801,  tagut=https://www.wikidata.org/wiki/Q28802107
+2542	 menginfakkan=https://www.wikidata.org/wiki/Q34770,  rezeki=https://www.wikidata.org/wiki/Q3527812
+299	 Iblis=https://www.wikidata.org/wiki/Q22697,  kafir=https://www.wikidata.org/wiki/Q48278
+174	 generasi=https://www.wikidata.org/wiki/Q223557,  rasul=https://www.wikidata.org/wiki/Q175481
+644	 Zakat=https://www.wikidata.org/wiki/Q193141,  Allah=https://www.wikidata.org/wiki/Q234801
+2240	 Nabi Muhammad=https://www.wikidata.org/wiki/Q577,  Allah=https://www.wikidata.org/wiki/Q2348011
+942	 malam=https://www.wikidata.org/wiki/Q193830,  siang=https://www.wikidata.org/wiki/Q25235
+2365	entity = kebesaran Allah, entity link = [https://www.wikidata.org/wiki/Q19890727]
+2477	 surga=https://www.wikidata.org/wiki/Q483751,  orang kafir=https://www.wikidata.org/wiki/Q42412,  malaikat=https://www.wikidata.org/wiki/Q235113,  perintah Tuhan=https://www.wikidata.org/wiki/Q1066539
+408	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+784	entity = Allah, entity link = https://www.wikidate.org/wiki/Q190214
+932	entity = Islam, entity link = https://www.wikidata.org/wiki/Q432  
+2241	 Kiamat=https://www.wikidata.org/wiki/Q193622,  Nabi Muhammad=https://www.wikidata.org/wiki/Q571,  Allah=https://www.wikidata.org/wiki/Q2348011
+1412	 [Blessing]=https://www.wikidata.org/wiki/Q209471,  [Allah]=https://www.wikidata.org/wiki/Q405,  [Evil]=https://www.wikidata.org/wiki/Q9492,  [Disaster]=https://www.wikidata.org/wiki/Q8068,  [Error]=https://www.wikidata.org/wiki/Q41710,  [Muhammad]=https://www.wikidata.org/wiki/Q570,  [Human]=https://www.wikidata.org/wiki/Q5
+2019	 matahari=https://www.wikidata.org/wiki/Q525,  langit=https://www.wikidata.org/wiki/Q527,  bumi=https://www.wikidata.org/wiki/Q2,  agama=https://www.wikidata.org/wiki/Q9174,  musyrik=https://www.wikidata.org/wiki/Q49447
+2535	 Allah=https://www.wikidata.org/wiki/Q113/Q216,  rezeki=https://www.wikidata.org/wiki/Q30916645
+1879	 manusia=https://www.wikidata.org/wiki/Q5,  nabi=https://www.wikidata.org/wiki/Q206439,  kafir=https://www.wikidata.org/wiki/Q48282
+2015	 Firman=https://www.wikidata.org/wiki/Q190822,  sangkakala=https://www.wikidata.org/wiki/Q1062919
+1062	entity = Quran, entity link = https://www.wikidata.org/wiki/Q112208
+1160	 Allah=https://www.wikidata.org/wiki/Q112,  Tawakkul=https://www.wikidata.org/wiki/Q1075072
+818	entity = Allah, entity link = https://www.wikidata.org/wiki/Q23435
+766	entity = rasul, entity link = [https://www.wikidata.org/wiki/Q9203]
+44	entity = Kami, entity link = [https://www.wikidata.org/wiki/Q21512859]
+1911	 [] 
+1457	[]
+2595	entity = orang, entity link = https://www.wikidata.org/wiki/Q5
+1998	entity = hukum, entity link = [https://www.wikidata.org/wiki/Q7748]
+903	 Allah=https://www.wikidata.org/wiki/Q234801,  Al-Qur'an=https://www.wikidata.org/wiki/Q428,  Nabi Muhammad=https://www.wikidata.org/wiki/Q9205
+247	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+1357	 Al-Qur'an=https://www.wikidata.org/wiki/Q9281,  Kitab=https://www.wikidata.org/wiki/Q49447,  Sabat=https://www.wikidata.org/wiki/Q1034229
+2100	 persangkaan=https://www.wikidata.org/wiki/Q177489,  kebohongan=https://www.wikidata.org/wiki/Q181227
+768	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+2331	 Qur'an=https://www.wikidata.org/wiki/Q112905
+1957	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q112]
+652	 murtad=https://www.wikidata.org/wiki/Q929917,  agama=https://www.wikidata.org/wiki/Q9174,  kekafiran=https://www.wikidata.org/wiki/Q28803,  dunia=https://www.wikidata.org/wiki/Q16502,  akhirat=https://www.wikidata.org/wiki/Q42857
+222	entity = Al-Qur'an, entity link = [https://www.wikidata.org/wiki/Q428](https://www.wikidata.org/wiki/Q428)
+867	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+1551	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q2348011]
+1381	 Allah=https://www.wikidata.org/wiki/Q234801,  Rasul=https://www.wikidata.org/wiki/Q9202,  Nabi Muhammad=https://www.wikidata.org/wiki/Q9202,  ululamri=https://www.wikidata.org/wiki/Q22989100
+2186	entity = Iman, entity link = https://www.wikidata.org/wiki/Q483247
+663	entity = Allah, entity link = https://www.wikidata.org/wiki/Q428  
+2565	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234352]
+1293	 dusta=https://www.wikidata.org/wiki/Q1814079,  dosa=https://www.wikidata.org/wiki/Q5958307
+1570	 orang-orang yang beriman=https://www.wikidata.org/wiki/Q417881,  orang-orang kafir=https://www.wikidata.org/wiki/Q2271474,  teman setia=https://www.wikidata.org/wiki/Q3702903,  orang-orang mukmin=https://www.wikidata.org/wiki/Q417881
+415	 kebaikan=https://www.wikidata.org/wiki/Q1151067,  Allah=https://www.wikidata.org/wiki/Q23540
+2476	 Malaikat=https://www.wikidata.org/wiki/Q235113,  Salam=https://www.wikidata.org/wiki/Q378521
+2221	 Iblis=https://www.wikidata.org/wiki/Q2644610,  Allah=https://www.wikidata.org/wiki/Q204035
+1380	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+171	 manusia=https://www.wikidata.org/wiki/Q5,  kesusahan=https://www.wikidata.org/wiki/Q205901,  berdoa=https://www.wikidata.org/wiki/Q2905572,  berbaring=https://www.wikidata.org/wiki/Q186360,  duduk=https://www.wikidata.org/wiki/Q186781,  berdiri=https://www.wikidata.org/wiki/Q1458959
+1724	entity = neraka, entity link = https://www.wikidata.org/wiki/Q35625
+431	 [] 
+1475	entity = orang-orang kafir, entity link = https://www.wikidata.org/wiki/Q21598086
+1458	 Allah=https://www.wikidata.org/wiki/Q112,  azab=https://www.wikidata.org/wiki/Q20009299
+1256	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+568	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234352]
+1135	 neraka=https://www.wikidata.org/wiki/Q35697,  orang-orang zalim=https://www.wikidata.org/wiki/Q21546358
+991	entity = Nabi Muhammad, entity link = https://www.wikidata.org/wiki/Q42413
+1358	entity = Ketetapan Allah, entity link = [https://www.wikidata.org/wiki/Q5773577]
+2360	entity = Dia Maha Mendengar lagi Maha Mengetahui, entity link = [https://www.wikidata.org/wiki/Q21680074]
+1727	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q2348011]
+1227	entity = Allah, entity link = https://www.wikidata.org/wiki/Q23566
+1660	 junub=https://www.wikidata.org/wiki/Q1920463,  mandi=https://www.wikidata.org/wiki/Q170546
+1456	 mukmin=https://www.wikidata.org/wiki/Q202584,  neraka=https://www.wikidata.org/wiki/Q4749924,  Jahanam=https://www.wikidata.org/wiki/Q474929
+681	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+2467	entity = Malaikat, entity link = https://www.wikidata.org/wiki/Q180925 
+437	entity = [Kitab Suci], entity link = [https://www.wikidata.org/wiki/Q179461]
+1094	 Allah=https://www.wikidata.org/wiki/Q234801,  Nabi Muhammad=https://www.wikidata.org/wiki/Q9460,  malaikat=https://www.wikidata.org/wiki/Q235113
+1951	entity = kalimāt Allah, entity link = https://www.wikidata.org/wiki/Q219728 
+189	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+234	 Nabi Muhammad=https://www.wikidata.org/wiki/Q21826,  Allah=https://www.wikidata.org/wiki/Q2348011
+979	 Isa=https://www.wikidata.org/wiki/Q302,  Bani Israil=https://www.wikidata.org/wiki/Q219821
+694	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+808	 Infak=https://www.wikidata.org/wiki/Q229783,  Allah=https://www.wikidata.org/wiki/Q2348011,  Pahala=https://www.wikidata.org/wiki/Q25092889
+1592	 Allah=https://www.wikidata.org/wiki/Q234801,  Perjanjian=https://www.wikidata.org/wiki/Q1259288,  Kafir=https://www.wikidata.org/wiki/Q48269,  Nabi=https://www.wikidata.org/wiki/Q206439,  Kekufuran=https://www.wikidata.org/wiki/Q102364
+2411	 [] 
+1744	 mukmin=https://www.wikidata.org/wiki/Q202276,  Taurat=https://www.wikidata.org/wiki/Q8171
+1711	entity = membunuh, entity link = [https://www.wikidata.org/wiki/Q132821]
+255	entity = Alif Lām Mīm, entity link = [https://www.wikidata.org/wiki/Q1062919]
+1773	 Allah=https://www.wikidata.org/wiki/Q195944,  kaum yang zalim=https://www.wikidata.org/wiki/Q24739492
+1648	 [Carrion]=https://www.wikidata.org/wiki/Q1093494,  [Blood]=https://www.wikidata.org/wiki/Q7870,  [Pork]=https://www.wikidata.org/wiki/Q2085378,  [Names of God in Islam]=https://www.wikidata.org/wiki/Q46806,  [Wild animal]=https://www.wikidata.org/wiki/Q28425,  [Idol]=https://www.wikidata.org/wiki/Q192982,  [Cleromancy]=https://www.wikidata.org/wiki/Q857414
+2159	entity = Quran, entity link = https://www.wikidata.org/wiki/Q1122
+412	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+1476	 Nabi Muhammad=https://www.wikidata.org/wiki/Q571,  sahabat=https://www.wikidata.org/wiki/Q222785,  salat=https://www.wikidata.org/wiki/Q204391
+2117	 Allah=https://www.wikidata.org/wiki/Q2348011,  azab=https://www.wikidata.org/wiki/Q917482
+1712	 Allah=https://www.wikidata.org/wiki/Q234801,  burung gagak=https://www.wikidata.org/wiki/Q25467,  Qabil=https://www.wikidata.org/wiki/Q188849
+874	 [] 
+837	entity = infak, entity link = https://www.wikidata.org/wiki/Q47703
+2506	entity = orang-orang musyrik, entity link = https://www.wikidata.org/wiki/Q42857
+655	 orang-orang yang beriman=https://www.wikidata.org/wiki/Q177013,  orang-orang yang berhijrah=https://www.wikidata.org/wiki/Q229361,  Jihad=https://www.wikidata.org/wiki/Q49774,  Allah=https://www.wikidata.org/wiki/Q2348011
+2288	entity = Allah, entity link = https://www.wikidata.org/wiki/Q2348011
+1767	entity = Allah, entity link = https://www.wikidata.org/wiki/Q112 
+1653	entity = Nabi Muhammad, entity link = [https://www.wikidata.org/wiki/Q571]
+2389	 Musa=https://www.wikidata.org/wiki/Q17548,  Fir'aun=https://www.wikidata.org/wiki/Q209832
+2464	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+436	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+2520	 setan=https://www.wikidata.org/wiki/Q234352,  dunia=https://www.wikidata.org/wiki/Q2,  akhirat=https://www.wikidata.org/wiki/Q215028
+2485	entity = Allah, entity link = https://www.wikidata.org/wiki/Q23597
+1351	entity = orang-orang Yahudi, entity link = [https://www.wikidata.org/wiki/Q7327]
+2184	entity = Allah, entity link = https://www.wikidata.org/wiki/Q2348011
+421	 Allah=https://www.wikidata.org/wiki/Q234801,  hari Kiamat=https://www.wikidata.org/wiki/Q192507
+1928	entity = Allah, entity link = https://www.wikidata.org/wiki/Q256 
+980	 hawari=https://www.wikidata.org/wiki/Q216751,  Allah=https://www.wikidata.org/wiki/Q2348011,  muslim=https://www.wikidata.org/wiki/Q49773
+1072	 [] 
+2366	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801_FULLFILL_THIS_CORRECTLY
+2040	 para nabi=https://www.wikidata.org/wiki/Q220695,  Allah=https://www.wikidata.org/wiki/Q2348011
+933	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+197	entity = azab Kami, entity link = [https://www.wikidata.org/wiki/Q196227]
+2168	 Allah=https://www.wikidata.org/wiki/Q234801,  musyrik=https://www.wikidata.org/wiki/Q209782,  rasul=https://www.wikidata.org/wiki/Q622259
+94	entity = Taurat, entity link = [https://www.wikidata.org/wiki/Q43631]
+658	 dosa=https://www.wikidata.org/wiki/Q123456,  manfaat bagi manusia=https://www.wikidata.org/wiki/Q2211043,  infak=https://www.wikidata.org/wiki/Q4687448
+2225	entity = aurat, entity link = [https://www.wikidata.org/wiki/Q192841]
+1663	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q112](https://www.wikidata.org/wiki/Q112)
+1510	 Nabi Muhammad=https://www.wikidata.org/wiki/Q22686,  Jahanam=https://www.wikidata.org/wiki/Q548778
+135	entity = Allah, entity link = https://www.wikidata.org/wiki/Q23435
+533	 Allah=https://www.wikidata.org/wiki/Q234801,  Taurat=https://www.wikidata.org/wiki/Q39201
+240	 [] 
+842	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+1187	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234352
+2457	 akhirat=https://www.wikidata.org/wiki/Q484725,  keesaan Allah=https://www.wikidata.org/wiki/Q11202
+720	 perempuan=https://www.wikidata.org/wiki/Q467,  menikah=https://www.wikidata.org/wiki/Q8445
+820	 masa tua=https://www.wikidata.org/wiki/Q1790144,  keturunan=https://www.wikidata.org/wiki/Q7560
+1481	 Allah=https://www.wikidata.org/wiki/Q2348011,  azab=https://www.wikidata.org/wiki/Q7646863,  kafir=https://www.wikidata.org/wiki/Q229600
+1274	entity = Allah, entity link = https://www.wikidata.org/wiki/Q2348011
+1191	 Allah=https://www.wikidata.org/wiki/Q234801,  rasul=https://www.wikidata.org/wiki/Q175151
+2608	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801S
+1024	 Allah=https://www.wikidata.org/wiki/Q234416,  Nabi Muhammad=https://www.wikidata.org/wiki/Q9466,  Ibrahim=https://www.wikidata.org/wiki/Q9181,  Ismail=https://www.wikidata.org/wiki/Q2091,  Ishaq=https://www.wikidata.org/wiki/Q9205,  Ya'qub=https://www.wikidata.org/wiki/Q208918,  Musa=https://www.wikidata.org/wiki/Q193598,  Isa=https://www.wikidata.org/wiki/Q25351,  para nabi=https://www.wikidata.org/wiki/Q20643927
+179	entity = Nabi Muhammad, entity link = [https://www.wikidata.org/wiki/Q57490]
+1058	 umat Islam=https://www.wikidata.org/wiki/Q432,  makruf=https://www.wikidata.org/wiki/Q3274862,  mungkar=https://www.wikidata.org/wiki/Q3274880,  Allah=https://www.wikidata.org/wiki/Q112,  manusia=https://www.wikidata.org/wiki/Q5
+1221	 Tuhan=https://www.wikidata.org/wiki/Q190,  hari Kiamat=https://www.wikidata.org/wiki/Q193622
+757	entity = air, entity link = https://www.wikidata.org/wiki/Q283
+965	 Allah=https://www.wikidata.org/wiki/Q2348011,  Zakaria=https://www.wikidata.org/wiki/Q186383,  Jibril=https://www.wikidata.org/wiki/Q178423,  Maryam=https://www.wikidata.org/wiki/Q175151
+1784	entity = Salat, entity link = https://www.wikidata.org/wiki/Q42410
+1048	entity = Allah, entity link = https://www.wikidata.org/wiki/Q244950
+708	 Allah=https://www.wikidata.org/wiki/Q112,  kamu=https://www.wikidata.org/wiki/Q43003
+1509	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+1115	 Allah=https://www.wikidata.org/wiki/Q2348011,  syuhada=https://www.wikidata.org/wiki/Q5727902
+1940	entity = mereka, entity link = [https://www.wikidata.org/wiki/Q33999]
+545	entity = rahmat, entity link = [https://www.wikidata.org/wiki/Q193456]
+1841	entity = Ya Tuhan kami kami telah beriman, entity link = https://www.wikidata.org/wiki/Q43430836
+782	 langit=https://www.wikidata.org/wiki/Q333,  bumi=https://www.wikidata.org/wiki/Q2
+1407	entity = tipu daya setan, entity link = [https://www.wikidata.org/wiki/Q208046]
+839	 pahala=https://www.wikidata.org/wiki/Q319508,  jihad=https://www.wikidata.org/wiki/Q49774,  Allah=https://www.wikidata.org/wiki/Q234801
+2384	entity = Fir'aun, entity link = [https://www.wikidata.org/wiki/Q209874]
+787	 tagut=https://www.wikidata.org/wiki/Q2891176,  Allah=https://www.wikidata.org/wiki/Q234801
+1107	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+1787	entity = Muhammad, entity link = [https://www.wikidata.org/wiki/Q571]
+458	 Nabi Muhammad=https://www.wikidata.org/wiki/Q9464,  Yahudi=https://www.wikidata.org/wiki/Q7325,  Nasrani=https://www.wikidata.org/wiki/Q51658
+1741	entity = adil, entity link = [https://www.wikidata.org/wiki/Q205667]
+2586	 Nabi Muhammad=https://www.wikidata.org/wiki/Q571,  Allah=https://www.wikidata.org/wiki/Q2348011
+510	entity = Al-Qur'an, entity link = [https://www.wikidata.org/wiki/Quran]
+2087	 Allah=https://www.wikidata.org/wiki/Q234801,  Al-Qur'an=https://www.wikidata.org/wiki/Q1122
+1390	 rasul=https://www.wikidata.org/wiki/Q175546,  Allah=https://www.wikidata.org/wiki/Q234801
+946	entity = Allah, entity link = https://www.wikidata.org/wiki/Q2348011
+2512	 menanggung=https://www.wikidata.org/wiki/Q18207245,  hidup-hidup=https://www.wikidata.org/wiki/Q65462422
+2556	 pakaian=https://www.wikidata.org/wiki/Q11460,  panas=https://www.wikidata.org/wiki/Q11468,  baju besi=https://www.wikidata.org/wiki/Q132821,  peperangan=https://www.wikidata.org/wiki/Q198
+1877	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+297	entity = Adam, entity link = https://www.wikidata.org/wiki/Q70889
+2076	 [] 
+2030	 Nuh=https://www.wikidata.org/wiki/Q9363,  Daud=https://www.wikidata.org/wiki/Q41370,  Sulaiman=https://www.wikidata.org/wiki/Q219728,  Ayyub=https://www.wikidata.org/wiki/Q42544,  Yusuf=https://www.wikidata.org/wiki/Q189313,  Musa=https://www.wikidata.org/wiki/Q192046,  Harun=https://www.wikidata.org/wiki/Q43810
+1772	[]
+1657	 [People of the Book]=https://www.wikidata.org/wiki/Q42406,  [Halal]=https://www.wikidata.org/wiki/Q192875,  [Muslim women]=https://www.wikidata.org/wiki/Q6647868,  [People of the Book]=https://www.wikidata.org/wiki/Q42406,  [Dowry]=https://www.wikidata.org/wiki/Q500814,  [Fornication]=https://www.wikidata.org/wiki/Q50804,  [Concubinage]=https://www.wikidata.org/wiki/Q845223
+1303	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+169	 Allah=https://www.wikidata.org/wiki/Q2348011,  manusia=https://www.wikidata.org/wiki/Q5
+1245	entity = Allah, entity link = https://www.wikidata.org/wiki/Q2348011
+2261	entity = Salāmun 'alaikum, entity link = [https://www.wikidata.org/wiki/Q207374]
+1378	 hukum=https://www.wikidata.org/wiki/Q7748,  manusia=https://www.wikidata.org/wiki/Q5,  adil=https://www.wikidata.org/wiki/Q1058914
+1056	 Allah=https://www.wikidata.org/wiki/Q234352,  semesta alam=https://www.wikidata.org/wiki/Q21692327
+2023	entity = kamu, entity link = https://www.wikidata.org/wiki/Q30101070
+1713	 burung gagak=https://www.wikidata.org/wiki/Q47357,  mayat=https://www.wikidata.org/wiki/Q12136
+1651	 Islam=https://www.wikidata.org/wiki/Q432,  nikmat=https://www.wikidata.org/wiki/Q1751852
+2245	entity = Allah, entity link = [https://www.wikidata.org/wiki/Q234801]
+2237	 mereka=https://www.wikidata.org/wiki/Q43116,  petunjuk=https://www.wikidata.org/wiki/Q1931185
+1432	entity = penghormatan, entity link = https://www.wikidata.org/wiki/Q4760287
+369	 kehidupan dunia=https://www.wikidata.org/wiki/Q7188,  akhirat=https://www.wikidata.org/wiki/Q42864
+2129	entity = Tuhan, entity link = https://www.wikidata.org/wiki/Q19088
+671	 mandi wajib=https://www.wikidata.org/wiki/Q21012686,  Allah=https://www.wikidata.org/wiki/Q2348011
+290	 fasik=https://www.wikidata.org/wiki/Q5083701,  perjanjian=https://www.wikidata.org/wiki/Q819712,  Allah=https://www.wikidata.org/wiki/Q234801,  silaturahmi=https://www.wikidata.org/wiki/Q2868372
+1793	 Orang-orang Yahudi=https://www.wikidata.org/wiki/Q7327,  Tangan Allah=https://www.wikidata.org/wiki/Q1969448
+227	entity = Al-Qur'an, entity link = [https://www.wikidata.org/wiki/Q428]
+619	 manusia=https://www.wikidata.org/wiki/Q5,  Nabi Muhammad=https://www.wikidata.org/wiki/Q948,  Allah=https://www.wikidata.org/wiki/Q2348011
+368	 kenistaan=https://www.wikidata.org/wiki/Q1042934,  kehidupan dunia=https://www.wikidata.org/wiki/Q5454252,  Hari Kiamat=https://www.wikidata.org/wiki/Q193559,  Allah=https://www.wikidata.org/wiki/Q2348011
+112	 Allah=https://www.wikidata.org/wiki/Q112,  Asmaulhusna=https://www.wikidata.org/wiki/Q287186
+1405	 Allah=https://www.wikidata.org/wiki/Q234801,  tagut=https://www.wikidata.org/wiki/Q327959
+1341	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+2218	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234801
+959	 Maryam=https://www.wikidata.org/wiki/Q57720,  Allah=https://www.wikidata.org/wiki/Q234801,  Zakaria=https://www.wikidata.org/wiki/Q193746
+1101	 riba=https://www.wikidata.org/wiki/Q929186,  Allah=https://www.wikidata.org/wiki/Q234801
+928	 agama=https://www.wikidata.org/wiki/Q9174,  Allah=https://www.wikidata.org/wiki/Q234801,  Islam=https://www.wikidata.org/wiki/Q432
+52	 patung=https://www.wikidata.org/wiki/Q860861,  anak sapi=https://www.wikidata.org/wiki/Q14330
+2402	entity = Taurat, entity link = https://www.wikidata.org/wiki/Q1315
+1843	 Allah=https://www.wikidata.org/wiki/Q234801,  Tuhan=https://www.wikidata.org/wiki/Q234801
+2369	 kamu=https://www.wikidata.org/wiki/Q37813,  alasan=https://www.wikidata.org/wiki/Q1151067
+1212	entity = azab, entity link = [https://www.wikidata.org/wiki/Q20009285]
+1779	entity = Allah, entity link = https://www.wikidata.org/wiki/Q234352
+319	 Bani Israil=https://www.wikidata.org/wiki/Q206002,  patung anak sapi=https://www.wikidata.org/wiki/Q131138
+1269	entity = wasiat, entity link = [https://www.wikidata.org/wiki/Q648227]
+2327	entity = Syuʻaib, entity link = https://www.wikidata.org/wiki/Q206483
+523	entity = neraka, entity link = https://www.wikidata.org/wiki/Q3567257
+522	entity = Quran, entity link = [https://www.wikidata.org/wiki/Q42209]

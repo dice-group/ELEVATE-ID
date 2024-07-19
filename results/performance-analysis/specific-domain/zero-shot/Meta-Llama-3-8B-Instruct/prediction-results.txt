@@ -1,0 +1,263 @@
+2243	Adam=Q78, rasul-rasul=Q48251, ayat-ayat-Ku=Q2535579, Allah=Q1986
+176	Kami=Q6685, kaum=Q233, dosa=Q234
+913	Allah=Q4164871, mereka=Q11396, dosa-dosanya=Q171447
+1331	Allah=https://www.wikidata.org/wiki/Q85
+2605	Allah=Q85, bangkai=Q1151, darah=Q1134, daging=Q1135, babi=Q1054, hewan=Q7479
+813	Perumpamaannya = https://www.wikidata.org/wiki/Q1131455, orang itu = https://www.wikidata.org/wiki/Q5, batu = https://www.wikidata.org/wiki/Q3942, debu = https://www.wikidata.org/wiki/Q33030, hujan = https://www.wikidata.org/wiki/Q28644
+582	[Fitnah=Q130113, Pembunuhan=Q243]
+2298	Hud = https://www.wikidata.org/wiki/Q23543, Samud = https://www.wikidata.org/wiki/Q246555
+2106	[Tuhan=Q1069, orang-orang=Q8396]
+1487	Allah=Q1986, Maha=Q25359, Mengetahui=Q25149, Mahabijaksana=Q25360
+1968	Alloh=Q25372, hati=Q33021, mereka=Q33021, setan=Q13463, Kami=Q33021, pintu-pintu=Q13463, kesenangan=Q13463
+1186	Allah=Q86, akhirat=Q141, azab=Q14574
+195	Kamilah = https://www.wikidata.org/wiki/Q113139, Kemudian = https://www.wikidata.org/wiki/Q34627, Kami = https://www.wikidata.org/wiki/Q11424, Kepadamu = https://www.wikidata.org/wiki/Q113139, Kamu = https://www.wikidata.org/wiki/Q113139, Kerjakan = https://www.wikidata.org/wiki/Q13492
+2426	Ketetapan Allah = Q217164, Allah = Q838596
+2252	Al-Qur'an=Q199114, orang-orang=Q212115, Kami=Q214751, Allah=Q1986
+71	Akan Allah=Q856, Rasul=Q83, Muhammad=Q354, Nabi=Q83, Taurat=Q283, Injil=Q283
+1607	rasul = https://www.wikidata.org/wiki/Q84
+597	Kamu=Q2013, umrah=Q394, haji=Q394, tamatu'=Q1102344, hadyu=Q1102345
+930	Allah=https://www.wikidata.org/wiki/Q84, ayat-ayat Allah=https://www.wikidata.org/wiki/Q27162421
+33	Dia=Q741, Musa=Q25300, Allah=Q83
+2399	Fir'aun=Q193, Bani Israil=Q8332
+2493	Atau = Q1247, Allah = Q85, azab = Q2811339, mereka = Q5, waktu = Q82699, perjalanan = Q18393
+45	Aku = Q76, negeri = Q515, orang-orang = Q2126, fasik = Q34248, bumi = Q2, alasan = Q3344, benar = Q3371, kekuasaan-Ku = Q1345416, tanda-tanda = Q1345417
+57	Musa=Q331, Allah=Q1989
+1420	Tidakkah mereka menadaburi Al-Qur'an? Seandainya = [Al-Qur'an=https://www.wikidata.org/wiki/Q199]
+2617	Serulah = https://www.wikidata.org/wiki/Q1141443, manusia = https://www.wikidata.org/wiki/Q5, Tuhanmu = https://www.wikidata.org/wiki/Q25372
+835	Allah=Q836, Mahateliti=Q11201151, apa=Q344, kamu=Q143, kerjakan=Q1139243
+830	Tidak ada yang dapat mengambil pelajaran = Q43618, darinya = Q2497954, ululalbab = Q2513335
+388	Allah=https://www.wikidata.org/wiki/Q85
+1238	Quran=Q19916, Allah=Q8332, harta=Q16591
+931	Nabi Muhammad = https://www.wikidata.org/wiki/Q35490, Allah = https://www.wikidata.org/wiki/Q25372, Yahudi = https://www.wikidata.org/wiki/Q41435, Nasrani = https://www.wikidata.org/wiki/Q41436, Taurat = https://www.wikidata.org/wiki/Q1987, Injil = https://www.wikidata.org/wiki/Q1988, Islam = https://www.wikidata.org/wiki/Q12136
+803	Dia (Ibrahim)=https://www.wikidata.org/wiki/Q1977, Allah=https://www.wikidata.org/wiki/Q134966
+1742	Allah= https://www.wikidata.org/wiki/Q85, orang-orang= https://www.wikidata.org/wiki/Q215627
+1548	[Allah=Q1986, dunia=Q1146, akhirat=Q1153]
+606	[Tuhanmu=https://www.wikidata.org/wiki/Q11167, musim=https://www.wikidata.org/wiki/Q18334, haji=https://www.wikidata.org/wiki/Q21534]
+1978	Al-Qur'an=https://www.wikidata.org/wiki/Q16837, Allah=https://www.wikidata.org/wiki/Q83, Tuhannya=https://www.wikidata.org/wiki/Q83, Kiamat=https://www.wikidata.org/wiki/Q2422359
+322	Penciptamu = https://www.wikidata.org/wiki/Q96
+2135	Kelak=kemudian (https://www.wikidata.org/wiki/Q346), kamu=orang (https://www.wikidata.org/wiki/Q5), siapa=who (https://www.wikidata.org/wiki/Q214018), yang=which (https://www.wikidata.org/wiki/Q214018), akan=will (https://www.wikidata.org/wiki/Q12119), memperoleh=receive (https://www.wikidata.org/wiki/Q113121), tempat=place (https://www.wikidata.org/wiki/Q28796), terbaik=best (https://www.wikidata.org/wiki/Q11424), di=in (https://www.wikidata.org/wiki/Q113121), akhirat=afterlife (https://www.wikidata.org/wiki/Q14444), nanti=later (https://www.wikidata.org/wiki/Q12119).
+1128	Allah=Q85, orang-orang=Q482611, sabar=Q1341439
+2492	Allah=Q84
+1595	[siapa=Q113, yang dibunuh itu=Q165599]
+211	Maka = Q41171, Allah = Q83, azab Allah = Q143351
+790	Dia=Q741, iman=Q25853
+2291	Dia=Q742, kaumku=Q1086, Allah=Q83, tuhan=Q4147
+1265	Allah = https://www.wikidata.org/wiki/Q16995
+1745	petunjuk = https://www.wikidata.org/wiki/Q345, cahaya = https://www.wikidata.org/wiki/Q5277
+875	Ambillah=saksi:https://www.wikidata.org/wiki/Q29596, kamu=Q2129, berjual beli=Q11595, dan=Q214, janganlah=pencatat=Q214, mempersulit=Q214, saksi=Q29596, begitu=Q214, juga=Q214
+2566	Dia = Q6581097, juga = Q1315, keji = Q12421, kemungkaran = Q12421, permusuhan = Q12421
+679	Allah=https://www.wikidata.org/wiki/Q85
+1866	Allah=Q85, Maha Perkasa=Q11134594, Maha Memiliki=Q11134594, kekuasaan=Q29155
+603	Segala=Q282, Allah=Q85
+2410	Yunus=Q2729, negeri=Q5158, penduduk=Q33021
+696	perempuan = https://www.wikidata.org/wiki/Q6581097, laki-laki = https://www.wikidata.org/wiki/Q15936145
+74	[Nabi Muhammad = https://www.wikidata.org/wiki/Q94, Allah = https://www.wikidata.org/wiki/Q83]
+1851	[Q2140064=https://www.wikidata.org/wiki/Q2140064, Q212621=https://www.wikidata.org/wiki/Q212621, Q3957=https://www.wikidata.org/wiki/Q3957]
+212	Maka=Q2135, Allah=Q83, Tuhan=Q2135, kamu=Q6585193, yang=Q214448, sebenarnya=Q214448, Tidak=Q214448, ada=Q214448, setelah=Q214448, kebenaran=Q214448, itu=Q214448, kecuali=Q214448, kesesatan=Q214448
+742	Allah=https://www.wikidata.org/wiki/Q85, ayat-ayat-Nya=https://www.wikidata.org/wiki/Q2725548, kamu=https://www.wikidata.org/wiki/Q223812
+423	Allah = https://www.wikidata.org/wiki/Q84
+403	Orang-orang=kf:Q43229, kafir=kf:Q243234, azab=kf:Q243235, yang=kf:Q244016, pedih=kf:Q244017
+912	Mereka=Q5, ayat-ayat=Q3989, Kami=Q16918
+2230	setan=Q1419, pengikutnya=Q131, kamu=Q2026
+2126	Q2134=https://www.wikidata.org/wiki/Q2134, Q33465=https://www.wikidata.org/wiki/Q33465
+1193	Islam=Q47427, Allah=Q833656, pahala=Q1344436
+529	penyeru=Q131342, orang-orang=Q2426, penggembala=Q131341, gembalaannya=Q131342, memahami=Q131344, panggilan=Q131343, teriakan=Q131343, Mereka=Q2426, wahai=Q131345, orang-orang yang beriman=Q2426, Allah=Q83
+2482	rasul=Q86, Allah=Q83, tagut=Q771944
+2542	Lalu = Q2079, dia = Q5, rezeki = Q2859
+299	Maka = Q185924 (Maka), mereka = Q5 (Mensch), Iblis = Q204636 (Iblis), Ia = Q5 (Mensch), golongan = Q27555 (Kategorie), kafir = Q2554549 (Kafir)
+174	[Qur'an=Q226, Kami=Q252, Allah=Q198912, Rasul=Q214]
+644	Harta=Q515, Allah=Q1986, orang tua=Q131, kerabat=Q134, anak-anak yatim=Q134, orang-orang miskin=Q134, orang yang dalam perjalanan=Q134
+2240	Nabi Muhammad = https://www.wikidata.org/wiki/Q94, Allah = https://www.wikidata.org/wiki/Q83, hamba-hamba-Nya = https://www.wikidata.org/wiki/Q5156552, rezeki = https://www.wikidata.org/wiki/Q216235
+942	Engkau=Q1313, malam=Q1312, siang=Q1311
+2365	Allah = https://www.wikidata.org/wiki/Q74
+2477	Quran=Q281, Allah=Q4040, Tuhanmu=Q4040, malaikat=Q131, orang=Q33021, kafir=Q1331159
+408	Allah=Q41697, Mahakuasa=Q1045448, segala sesuatu=Q1133456
+784	Dialah yang Mahatinggi lagi Mahaagung = [Dialah=Q2431444, Mahatinggi=Q2445119, Mahaagung=Q2445119]
+932	Islam=https://www.wikidata.org/wiki/Q8152, petunjuk=https://www.wikidata.org/wiki/Q34672, kewajiban=https://www.wikidata.org/wiki/Q131694, menyampaikan=https://www.wikidata.org/wiki/Q13468
+2241	Nabi Muhammad = https://www.wikidata.org/wiki/Q10697, Allah = https://www.wikidata.org/wiki/Q84. Kiamat = https://www.wikidata.org/wiki/Q2424354
+1412	[nikmat=https://www.wikidata.org/wiki/Q246114, Allah=https://www.wikidata.org/wiki/Q4050, berasal=https://www.wikidata.org/wiki/P181, keburukan=https://www.wikidata.org/wiki/Q26444, bencana=https://www.wikidata.org/wiki/Q24546, kesalahan=https://www.wikidata.org/wiki/Q164414, Nabi Muhammad=https://www.wikidata.org/wiki/Q10558, Rasul=https://www.wikidata.org/wiki/Q246114, manusia=https://www.wikidata.org/wiki/Q5]
+2019	Muhammad=Q84, langit=Q8333, bumi=Q830, matahari=Q14472, Allah=Q8337, kaumku=Q11323
+2535	Allah=Q86, sebagian=Q2354555, kamu=Q212, rezeki=Q2573439
+1879	[manusia=https://www.wikidata.org/wiki/Q5, nabi=https://www.wikidata.org/wiki/Q844]
+2015	Maka = Q2135, jadilah =?, sesuatu itu =?, Firman-Nya = Q215386, adalah =?, benar = Q33447, dan = Q29795, milik-Nyalah =?, segala =?, kekuasaan = Q13436, pada =?, waktu = Q893, sangkakala =?, ditiup =?.
+1062	[If=Q846, they=Q5, you=Q6587, them=Q5, it=Q5844
+1160	Allah=Q4164871, orang-orang=Q243944
+818	Allah=Q85, Maha=Q2353116, Melihat=Q2220714, apa=Q23061, yang=Q33098, kamu=Q222, kerjakan=Q233844
+766	rasul=Q124011
+44	Lalu=Q209, Kami berfirman=Q105, kepadanya=Q1317, Berpegang teguhlah=Q108, padanya=Q1317, dengan=Q1317, sungguh-sungguh=Q111, dan=Q1317, suruhlah=Q108, kaummu=Q1317, berpegang=Q108, sebaik-baiknya=Q111
+1911	Kamu = https://www.wikidata.org/wiki/Q134416, meragukannya = https://www.wikidata.org/wiki/Q271333
+1457	[]
+2595	[orang-orang = https://www.wikidata.org/wiki/Q21129, lalai = https://www.wikidata.org/wiki/Q13413]
+1998	God=Q133933, Allah=Q85, Dialah=Q85
+903	Dialah=Q271, Allah=Q83367, Kitab=Q41172, kepadamu=Q101443, Nabi Muhammad=Q67
+247	Allah=Q8362
+1357	[Qur'an=Q2260, Kitab=Q737, Sabtu=Q1398]
+2100	[mereka=Q31283, persangkaan=?, belaka=?, kebohongan=Q31106]
+768	Allah=Q4164871, mereka=Q33021
+2331	Lalu = Q184, mereka = Q5, nenek moyang kami =?, penderitaan = Q38524, kesenangan = Q38523, Kami =?, siksaan = Q155144, atas =?, tiba-tiba =?, sedangkan =?, tidak =?, menyadari = Q13437
+1957	[Allah=Q1986, orang-orang=Q48253]
+652	[kamu=https://www.wikidata.org/wiki/Q18432, agamanya=https://www.wikidata.org/wiki/Q24694, dia=https://www.wikidata.org/wiki/Q5, mereka=https://www.wikidata.org/wiki/Q18432]
+222	Al-Qur'an=https://www.wikidata.org/wiki/Q199, Allah=https://www.wikidata.org/wiki/Q8332, kitab-kitab=https://www.wikidata.org/wiki/Q1131345
+867	Hendaklah = Q21762=https://www.wikidata.org/wiki/Q21762, dia = Q5=https://www.wikidata.org/wiki/Q5, Allah = Q198502=https://www.wikidata.org/wiki/Q198502, Tuhannya = Q198502=https://www.wikidata.org/wiki/Q198502, janganlah = Q21762=https://www.wikidata.org/wiki/Q21762, menguranginya = Q248454=https://www.wikidata.org/wiki/Q248454, sedikit = Q184=https://www.wikidata.org/wiki/Q184, pun = Q184=https://www.wikidata.org/wiki/Q184
+1551	[Allah=Q8369, dia=Q1435, kesaksian=Q11594]
+1381	[Allah=https://www.wikidata.org/wiki/Q169870, Nabi Muhammad=https://www.wikidata.org/wiki/Q538]
+2186	[Allah=Q41697, Tuhanmu=Q41697, seseorang=Q143245, masa=Q82699]
+663	Allah=Q86, Dia=Q85, kepadamu=Q1056226
+2565	Allah=Q4160315, berlaku=Q2106455, adil=Q2155115, kebajikan=Q2141135, kerabat=Q2063451
+1293	[Apakah=Q34604, kamu=Q14382, mengambilnya=Q106843, kembali=Q14401, dengan=Q16422, cara=Q2104, dusta=Q10422, dan=Q29574, dosa=Q10421, yang=Q11424, nyata=Q13492]
+1570	orang-orang yang beriman = Q1446515, orang-orang kafir = Q1446516, orang-orang mukmin = Q1446517
+415	Allah = https://www.wikidata.org/wiki/Q74
+2476	Mereka=Q12796, para malaikat=Q82794, Salāmun'alaikum=Q2831449, keselamatan=Q13343, tercurah=Q10543, kepadamu=Q2831448
+2221	Iblis=Q13438, Allah=Q83
+1380	Allah=https://www.wikidata.org/wiki/Q85
+171	Al-Qur'an=Q902, Allah=Q760, manusia=Q5
+1724	Mereka=Q5, neraka=Q11424
+431	[orang-orang=Q439, mereka=Q302, ucapan=Q230118, hati=Q331]
+1475	[kafir=Q243, orang-orang=Q1346496, musuh=Q34297]
+1458	Allah=Q86, murka=Q2709248, melaknatnya=Q2709248, azab=Q2709248, yang=Q2905989, sangat=Q2709248, besar=Q2709248
+1256	Maka = Q2376653, Allah = Q83, hak-hak keturunannya = Q1653857
+568	Maka = Q25853, Allah = Q85
+1135	[Tempat kembali=Q3989, orang-orang=Q215627]
+991	Nabi Muhammad = https://www.wikidata.org/wiki/Q3546437
+1358	Ketetapan Allah = https://www.wikidata.org/wiki/Q1646175, Allah = https://www.wikidata.org/wiki/Q840
+2360	Dia Maha Mendengar=Q144, Maha Mengetahui=Q144
+1727	Allah=Q83, Mahaperkasa=Q11514446, Mahabijaksana=Q11514446
+1227	[Allah=https://www.wikidata.org/wiki/Q84, orang-orang=https://www.wikidata.org/wiki/Q839]
+1660	[]
+1456	[mukmin=https://www.wikidata.org/wiki/Q41966, Jahanam=https://www.wikidata.org/wiki/Q1442354]
+681	Allah=Maha Allah, Maha=Q165386
+2467	Q1279=https://www.wikidata.org/wiki/Q1279, Q186618=https://www.wikidata.org/wiki/Q186618, Q334=https://www.wikidata.org/wiki/Q334, Q134416=https://www.wikidata.org/wiki/Q134416, Q23391=https://www.wikidata.org/wiki/Q23391
+437	Q5=Q106727, Q2=Q215656
+1094	Nabi Muhammad=https://www.wikidata.org/wiki/Q196092, Allah=https://www.wikidata.org/wiki/Q760, orang-orang mukmin=https://www.wikidata.org/wiki/Q243134
+1951	Allah=Q836, kalimāt=Q555455
+189	Sungguh = Q244, Allah = Q83
+234	Nabi Muhammad = https://www.wikidata.org/wiki/Q10697, Allah = https://www.wikidata.org/wiki/Q1986763
+979	Isa = https://www.wikidata.org/wiki/Q1977, Bani Israil = https://www.wikidata.org/wiki/Q14392, Allah = https://www.wikidata.org/wiki/Q83
+694	Allah=Q41697, batas-batas=Q1103219, ketentuan=Q1649365, janganlah=Q10815544, kamu=Q1313, melanggarnya=Q10815545
+808	Orang-orang = Q134416, Allah = Q83, Tuhan = Q83
+1592	Maka = Q11149, Allah = Q83, nabi-nabi = Q13420, alasan yang benar = Q1244414, hati kami = Q2351119
+2411	Kami=https://www.wikidata.org/wiki/Q826, Tuhanmu=https://www.wikidata.org/wiki/Q295, bumi=https://www.wikidata.org/wiki/Q30
+1744	[benar-benar=Q26145, orang-orang=Q25505, mukmin=Q257143, Kami=Q2338, Taurat=Q141]
+1711	Maka = Q209, dia = Q5, benar-benar = Q33904, membunuhnya = Q295, termasuk = P361, orang-orang = Q849, rugi = Q1849
+255	Alif Lām Mīm = https://www.wikidata.org/wiki/Q11944
+1773	Allah=Q41699, kaum=Q17777
+1648	babi=Q13445, Allah=Q83, binatang buas=Q34474, berhala=Q2419319, anak panah=Q141115
+2159	Katakanlah = Q2338=Q2338, Apakah = Q8467
+412	Maka = Q24642, Allah = Q85
+1476	[Nabi Muhammad=https://www.wikidata.org/wiki/Q10697, sahabatmu=https://www.wikidata.org/wiki/Q10565545]
+2117	Allah = https://www.wikidata.org/wiki/Q789, sisi = https://www.wikidata.org/wiki/Q34695, azab = https://www.wikidata.org/wiki/Q27059, Allah = https://www.wikidata.org/wiki/Q789
+1712	Qabil=https://www.wikidata.org/wiki/Q272654, Allah=https://www.wikidata.org/wiki/Q85, burung gagak=https://www.wikidata.org/wiki/Q271554, tanah=https://www.wikidata.org/wiki/Q5116, saudaranya=https://www.wikidata.org/wiki/Q119144
+874	Maka = Q16493, tidak = P3843, ada = P4467, dosa = Q255216, bagi = P3833, kamu = Q2338, jika = P1083, mencatatnya = P31
+837	Kebaikan=Q33539, kamu=Q1431, infakkan=Q10453, manfaatnya=Q11321, dirimu=Q1431
+2506	Biarkan=Q11196, orang-orang musyrik=Q1433335
+655	Sesungguhnya=Q22217, orang-orang=Q12799, Allah=Q83, rahmat=Q24407
+2288	Allah=Q1986, aku=Q14341, kamu=Q14342
+1767	Allah=https://www.wikidata.org/wiki/Q83
+1653	Nabi Muhammad = https://www.wikidata.org/wiki/Q74
+2389	Musa = https://www.wikidata.org/wiki/Q454, Fir'aun = https://www.wikidata.org/wiki/Q1445, kaumnya = https://www.wikidata.org/wiki/Q13443, para pemuka kaumnya = https://www.wikidata.org/wiki/Q13443
+2464	Maka Allah = https://www.wikidata.org/wiki/Q16909, rumah-rumah = https://www.wikidata.org/wiki/Q34713, Allah = https://www.wikidata.org/wiki/Q1984915
+436	Sesungguhnya=Q13139, petunjuk=Q34424, Allah=Q83, itulah=Q156455, yang=Q11423, sebenarnya=Q156455, Sungguh=Q13139, jika=Q156455, engkau=Q5, mengikuti=Q155921, hawa=Q16655, nafsu=Q16656, mereka=Q5, setelah=Q156455, ilmu=Q34424, kebenaran=Q156455, sampai=Q156455, kepadamu=Q5, tidak=Q156455, ada=Q156455, bagimu=Q5, pelindung=Q155921, dan=Q156455, penolong=Q155921, dari=Q156455, azab=Q156455
+2520	setan=https://www.wikidata.org/wiki/Q13435, perbuatan=https://www.wikidata.org/wiki/Q11321, mereka=https://www.wikidata.org/wiki/Q6581072 (instance of Q5), hari=https://www.wikidata.org/wiki/Q8262, dunia=https://www.wikidata.org/wiki/Q2, akhirat=https://www.wikidata.org/wiki/Q16444
+2485	[Allah=https://www.wikidata.org/wiki/Q760, nama=https://www.wikidata.org/wiki/Q8456, manusia=https://www.wikidata.org/wiki/Q995]
+1351	Jewish people=Q538, orang-orang Yahudi=Q538, tempat-tempatnya=Q3436096
+2184	Maka=Q27533, orang=Q5, Allah=Q83, ayat-ayat=Q2664325, Kelak=Q24459
+421	Allah=Q836, Kiamat=Q25363, agama=Q4025
+1928	Allah=Q86
+980	Para hawari = https://www.wikidata.org/wiki/Q1570446, sahabat setianya = https://www.wikidata.org/wiki/Q25394, Kamilah = https://www.wikidata.org/wiki/Q1570446, Allah = https://www.wikidata.org/wiki/Q840, agama = https://www.wikidata.org/wiki/Q3947, Kami = https://www.wikidata.org/wiki/Q1570446, saksikanlah = https://www.wikidata.org/wiki/Q1570446, sesungguhnya = https://www.wikidata.org/wiki/Q1570446, kami adalah = https://www.wikidata.org/wiki/Q1570446, orang-orang = https://www.wikidata.org/wiki/Q1570446, muslim = https://www.wikidata.org/wiki/Q33947
+1072	Kebaikan=Q38433, pahala=Q2406479
+2366	Mereka = Q1135, Allah = Q83, Mahasuci = Q1152
+2040	nabi=Q25271, Allah=Q84
+933	Allah=Q85, hamba-hamba-Nya=Q271343
+197	bumi=Q28, Kami=Q6559
+2168	Maka = Q21093, Allah = Q85, Kami = Q144, Nenek moyang kami =?, orang-orang musyrik =?, orang-orang sebelum mereka =?, para rasul = Q20831
+94	Negeri=Q155, Taurat=Q19937
+658	Mereka = Q14391 (people), keduanya = Q16595 (pair), manusia = Q5 (human), dosa = Q11424 (sin), manfaat = Q14411 (benefit), Akan tetapi = Q11395 (however), apa = Q13354 (what), mereka infakkan = Q13354 (what)
+2225	Maka=Q8464, keduanya=Q10556, buah=Q8453, pohon=Q291, auratnya=Q10491, daun-daun=Q28343, surga=Q2068
+1663	Allah= https://www.wikidata.org/wiki/Q83
+1510	Rasul = https://www.wikidata.org/wiki/Q94, Nabi Muhammad = https://www.wikidata.org/wiki/Q94, orang-orang mukmin = https://www.wikidata.org/wiki/Q41236, Jahanam = https://www.wikidata.org/wiki/Q255511
+135	[Allah=Q1986, berhala-berhala=Q2722344, makhluk=Q33261]
+533	Kitab=Taurat=Q19947, Allah=Q833656, api neraka=Q1342454, Taurat=Q19947
+240	azab=Q267151, kemudian=Q11424, kamu=Q24376, memercayainya=Q11315, apakah=Q11424
+842	Kebaikan=Q257654, Allah=Q83
+1187	Q214=Q214, Q16518=Q16518, Q846=Q846, Q2524=Q2524
+2457	Maka=Q215386, orang-orang=Q243, Allah=Q83, akhirat=Q243, keesaan=Q2447
+720	Perempuan-perempuan=Q6581072, kata=Q13440, hati=Q34192
+820	Kemudian = Q34609 (event, "Kemudian"), masa tua = Q17465 (era, "Masa tua"), dia = Q14394 (person, "Pengguna"), keturunan = Q131 (family, "Keturunan"), yang = Q34609 (event, "Yang"), kecil-kecil = Q13414 (quality
+1481	Allah=Q4160273, orang-orang=Q4167839, azab=Q2475115
+1274	itu=Q125271, Allah=Q85
+1191	Allah=Q1986, rasul-rasul-Nya=Q402
+2608	[Allah=https://www.wikidata.org/wiki/Q1986, orang-orang=https://www.wikidata.org/wiki/Q1344152, azab=https://www.wikidata.org/wiki/Q253142]
+1024	hanya kepada-Nya = Q786 (Allah), langit = Q1839 (Sky), bumi = Q50 (Earth), Nabi Muhammad = Q12 (Muhammad), Kami = Q5 (Human), Allah = Q786 (Allah), Ibrahim = Q43369 (Ibrahim), Ismail = Q43044 (Ishmael), Ishaq = Q43045 (Isaac), Ya'qub = Q43046 (Jacob), Musa = Q214 (Moses), Isa = Q42869 (Jesus)
+179	Nabi Muhammad = https://www.wikidata.org/wiki/Q10696
+1058	umat Islam = https://www.wikidata.org/wiki/Q12136, manusia = https://www.wikidata.org/wiki/Q5, Allah = https://www.wikidata.org/wiki/Q83
+1221	Ya Tuhan=Q271, kami=Q12591, apa yang=Q26345, telah=Q24637, Engkau=Q271, janjikan=Q26255, kepada=Q29178, melalui=Q29178, rasul-rasul-Mu=Q24354, dan=Q29178, janganlah=Q24637, hinakan=Q26255, pada=Q29178, hari=Q14421, Kiamat=Q14422.
+757	Maka=Q20811, siapa=Q131, yang=Q2555573, meminum=Q10526, airnya=Q113, sesungguhnya=Q23414, dia=Q5, tidak=Q33949, termasuk=Q215041, golongan=Q215042, ku=Q20811
+965	Allah = https://www.wikidata.org/wiki/Q1986, Zakaria = https://www.wikidata.org/wiki/Q1413, Jibril = https://www.wikidata.org/wiki/Q197576, Maryam = https://www.wikidata.org/wiki/Q144
+1784	[Salat=Q257554, Kamu=Q184, Mereka=Q134416, Bahan=Q3356, Ejekan=Q1133334, Permainan=Q143]
+1048	[Allah=https://www.wikidata.org/wiki/Q83, agama=https://www.wikidata.org/wiki/Q394]
+708	Allah=https://www.wikidata.org/wiki/Q82, kamu=https://www.wikidata.org/wiki/Q5
+1509	Allah=Q4164871
+1115	Masa=https://www.wikidata.org/wiki/Q846, Allah=https://www.wikidata.org/wiki/Q40553, manusia=https://www.wikidata.org/wiki/Q5, orang-orang=https://www.wikidata.org/wiki/Q4820473, syuhada=https://www.wikidata.org/wiki/Q2551398
+1940	Mereka = Q829=wikidata:Q829, diri mereka sendiri = Q5229=wikidata:Q5229
+545	Tuhanmu = https://www.wikidata.org/wiki/Q13495
+1841	Mereka=Q3305215, Ya Tuhan kami=Q11032, kami=Q3305215, Tuhan=Q8349
+782	Kursi-Nya = https://www.wikidata.org/wiki/Q1119446, ilmu dan kekuasaan-Nya = https://www.wikidata.org/wiki/Q11424, langit = https://www.wikidata.org/wiki/Q14433, bumi = https://www.wikidata.org/wiki/Q14442
+1407	setan=Q1397
+839	[Kebaikan=Q33539, Allah=Q84, pahala=Q1343451, orang-orang=Q1347449, fakir=Q1244472, usahanya=Q1347449, jihad=Q24644, jalan=Q24335, bumi=Q183]
+2384	Fir'aun = https://www.wikidata.org/wiki/Q113694, kaumnya = https://www.wikidata.org/wiki/Q131, penyihir = https://www.wikidata.org/wiki/Q18404
+787	[Allah=https://www.wikidata.org/wiki/Q1986, tagut=https://www.wikidata.org/wiki/Q2574542]
+1107	Siapa=Q1310, Mereka=Q21215
+1787	Nabi Muhammad = https://www.wikidata.org/wiki/Q196047
+458	Nabi Muhammad=https://www.wikidata.org/wiki/Q146, Allah=https://www.wikidata.org/wiki/Q227
+1741	Akan tetapi  =?, memutuskan  = Q132, perkara mereka  =?, putuskanlah  =?, dengan adil  = Q337.
+2586	[Nabi Muhammad=https://www.wikidata.org/wiki/Q10697, Allah=https://www.wikidata.org/wiki/Q25372]
+510	Al-Qur'an = https://www.wikidata.org/wiki/Q19958, Allah = https://www.wikidata.org/wiki/Q83
+2087	Allah = https://www.wikidata.org/wiki/Q7399, Al-Qur'an = https://www.wikidata.org/wiki/Q199, Kami = https://www.wikidata.org/wiki/Q15553
+1390	rasul = https://www.wikidata.org/wiki/Q83, Allah = https://www.wikidata.org/wiki/Q83
+946	Allah=Q85, diri-Nya=Q1063546, siksa-Nya=Q1143440
+2512	[Apakah=Q34848, dia=Q14398, memeliharanya=Q1133549, kehinaan=Q34447, menanggung=Q10554, akan=Q16408, membenamkannya=Q1133550, ke=dalam=Q29597, tanah=Q34342, hidup-hidup=Q34343]
+2556	Dia=Q747, pakaian=Q33539, panas=Q8421, baju besi=Q110141
+1877	Allah=Q85, (kamu)=Q5
+297	[Adam=https://www.wikidata.org/wiki/Q77]
+2076	Dialah Yang Mahahalus lagi Mahateliti = Q17133044
+2030	Kami=Q5, Nuh=Q47591, Daud=Q1343, Sulaiman=Q1344, Ayyub=Q1345, Yusuf=Q1346, Musa=Q1347, Harun=Q1348
+1772	[Allah=Q41697, kamu=Q8462, mereka=Q8462]
+1657	Ahlulkitab=Q25358, Makanan=Q41176, perempuan-perempuan=Q6586577, orang-orang=Q15936167, kitab suci=Q199554
+1303	Allah=Q84
+169	[Allah=Q836, manusia=Q5, ajal=Q4832494]
+1245	Harta=Q33447, Allah=Q85, pokok kehidupanmu=Q183542
+2261	[Para penghuni surga = https://www.wikidata.org/wiki/Q11424, Mereka = https://www.wikidata.org/wiki/Q11395]
+1378	[]
+1056	Allah=Q8368
+2023	[kamu=Q143, pelajaran=Q131]
+1713	burung gagak = https://www.wikidata.org/wiki/Q8468, mayat = https://www.wikidata.org/wiki/Q3359, saudaraku = https://www.wikidata.org/wiki/Q1139215
+1651	Al-Quran=Q199, Hari=Q3069, Allah=Q937, Islam=Q60474
+2245	Mereka = Q2128 (mankind)
+2237	They=Q5, orang-orang=Q215627, mendapat=Q3914386, petunjuk=Q222183
+1432	[You=Q26, salam=Q2431154, penghormatan=Q2431154, yang=Q1717, lebih=Q14443, baik=Q12421, daripadanya=Q1717, atau=Q1717, balaslah=Q2431154, dengan=Q1717, sepadan=Q14443]
+369	orang-orang = https://www.wikidata.org/wiki/Q11396, kehidupan = https://www.wikidata.org/wiki/Q18247, akhirat = https://www.wikidata.org/wiki/Q17192
+2129	[Tuhanmu=https://www.wikidata.org/wiki/Q25357]
+671	[Allah=Q1986, mandi wajib=Q2451443, Allah=Q1986]
+290	Al-Qur'an=Q2, Allah=Q4090, perjanjian=Q1313424, bumi=Q1446, orang-orang=Q18407, Namun=Q1313425, Dia=Q4137, fasik=Q1313426, yaitu=Q1313427, orang-orang fasik=Q18407, perumpamaan=Q1313428, memutuskan=Q1313429, silaturahmi=Q1313430, berbuat=Q1313431, kerusakan=Q1313432
+1793	itulah=Q23378, seburuk=Q13448, buruk=Q13448, apa=Q11424, yang=Q7612, selalu=Q13448, mereka=Q5, perbuat=Q13448, Orang-orang=Q13323, Yahudi=Q13448, berkata=Q13448, Tangan=Q7612, Allah=Q13448, terbelenggu=Q13448, kikir=Q13448, Sebenarnya=Q13448, tangan=Q7612, merekalah=Q5, dibelenggu=Q13448
+227	Al-Qur'an=https://www.wikidata.org/wiki/Q199/Q1089
+619	[Nabi Muhammad=https://www.wikidata.org/wiki/Q12]
+368	Alloh = https://www.wikidata.org/wiki/Q853, orang = https://www.wikidata.org/wiki/Q5, Allah = https://www.wikidata.org/wiki/Q853, Hari Kiamat = https://www.wikidata.org/wiki/Q19791, azab = https://www.wikidata.org/wiki/Q25342, dunia = https://www.wikidata.org/wiki/Q274
+112	Allah=Q85, Asmaulhusna=Q27131574
+1405	Al-Qur'an=Q9029, Allah=Q1986, jalan=Q13492, Tagut=Q2571132, orang-orang=Q13492, orang-orang yang beriman=Q13492, orang-orang yang kufur=Q13492
+1341	Allah=Q85, Maha Mengetahui=Q1051434, keadaan=Q33498, mereka=Q1433055, Sesungguhnya=Q1051435, tidak=Q8465, akan=Q113, menzalimi=Q1051436, seseorang=Q1433056, walaupun=Q1051437, sebesar=Q1051438, zarah=Q1051439
+2218	Dia=Q741, Allah=Q198, Aku=Q741
+959	Maryam=https://www.wikidata.org/wiki/Q44, Allah=https://www.wikidata.org/wiki/Q937, Zakaria=https://www.wikidata.org/wiki/Q43481
+1101	orang-orang = https://www.wikidata.org/wiki/Q11424, Allah = https://www.wikidata.org/wiki/Q83
+928	[Agama=https://www.wikidata.org/wiki/Q3848, Islam=https://www.wikidata.org/wiki/Q484]
+52	[patung = https://www.wikidata.org/wiki/Q344]
+2402	Maka = Q2487=https://www.wikidata.org/wiki/Q2487, mereka = Q5=https://www.wikidata.org/wiki/Q5, Taurat = Q1975=https://www.wikidata.org/wiki/Q1975
+1843	Tuhan=kangaroo:https://www.wikidata.org/wiki/Q36297, Allah=https://www.wikidata.org/wiki/Q1984915, kebenaran=https://www.wikidata.org/wiki/Q13438, kami=https://www.wikidata.org/wiki/Q10651, kaum=https://www.wikidata.org/wiki/Q16154
+2369	Kamu = Q1431, tidak = P645, mempunyai = P1383, alasan = Q13458, kuat = P2926, tentang = P577, ini = Q2489
+1212	Mereka=Q5489, azab=Q2439449, yang=Q84679, sangat=Q14496, pedih=Q123913
+1779	Allah=Q836, Mahaluas=Q11131154, Nya=Q11131155, Maha=Q11131156, Mengetahui=Q11131157
+319	Bani Israil = https://www.wikidata.org/wiki/Q1410, patung = https://www.wikidata.org/wiki/Q330506, anak sapi = https://www.wikidata.org/wiki/Q16494, sebagai sembahan = https://www.wikidata.org/wiki/Q113151, kepergian = https://www.wikidata.org/wiki/Q11424, orang-orang zalim = https://www.wikidata.org/wiki/Q112115
+1269	anak=Q829764, harta=Q26379, istri=Q23061, wasiat=Q842744, utang=Q10655
+2327	Syuʻaib=Q2523475, negeri=Q243
+523	Mereka=Q144, neraka=Q2567
+522	Allah=Q836, orang-orang=Q215494, mereka=Q215494, dunia=Q50
