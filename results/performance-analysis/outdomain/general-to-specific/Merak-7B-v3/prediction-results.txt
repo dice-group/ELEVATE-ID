@@ -1,0 +1,263 @@
+2243	Adam=http://www.wikidata.org/entity/Q9123, rasul=http://www.wikidata.org/entity/Q266300, kalangan=http://www.wikidata.org/entity/Q4003006, ayat=http://www.wikidata.org/entity/Q2663000
+176	[]
+913	[]
+1331	[]
+2605	[]
+813	[]
+582	[]
+2298	[]
+2106	[]
+1487	[]
+1968	[]
+1186	[]
+195	Kamilah=http://www.wikidata.org/entity/Q12432602
+2426	[]
+2252	[]
+71	Muhammad=http://www.wikidata.org/entity/Q11175, Yaitu=http://www.wikidata.org/entity/Q11175
+1607	[]
+597	[]
+930	[]
+33	Musa=http://www.wikidata.org/entity/Q17527576, Allah=http://www.wikidata.org/entity/Q42
+2399	Fir'aun=http://www.wikidata.org/entity/Q5427, Bani Israil=http://www.wikidata.org/entity/Q105, Tuhan=http://www.wikidata.org/entity/Q4165, Muslim=http://www.wikidata.org/entity/Q17467
+2493	[]
+45	[]
+57	Musa=http://www.wikidata.org/entity/Q245914
+1420	[]
+2617	[]
+835	[]
+830	[]
+388	[]
+1238	[]
+931	Nabi Muhammad=http://www.wikidata.org/entity/Q48717, Allah=http://www.wikidata.org/entity/Q42, Yahudi=http://www.wikidata.org/entity/Q104, Nasrani=http://www.wikidata.org/entity/Q105, Taurat=http://www.wikidata.org/entity/Q104, Injil=http://www.wikidata.org/entity/Q105
+803	Ibrahim=http://www.wikidata.org/entity/Q4285004, Allah=http://www.wikidata.org/entity/Q2134
+1742	[]
+1548	[]
+606	[]
+1978	Al-Qur'an=http://www.wikidata.org/entity/Q10475, Allah=http://www.wikidata.org/entity/Q30664
+322	[]
+2135	[]
+1128	[]
+2492	Allah=http://www.wikidata.org/entity/Q283, Megawati Soekarnoputri=http://www.wikidata.org/entity/Q2615333
+1595	[]
+211	[]
+790	[]
+2291	[]
+1265	[]
+1745	[]
+875	[]
+2566	[]
+679	[]
+1866	[]
+603	[]
+2410	[]
+696	[]
+74	Nabi Muhammad=http://www.wikidata.org/entity/Q48, Allah=http://www.wikidata.org/entity/Q48, langit=http://www.wikidata.org/entity/Q18, bumi=http://www.wikidata.org/entity/Q11, Dia=http://www.wikidata.org/entity/Q48
+1851	[]
+212	[]
+742	[]
+423	[]
+403	[]
+912	[]
+2230	[]
+2126	[]
+1193	[]
+529	[]
+2482	[]
+2542	[]
+299	[]
+174	[]
+644	[]
+2240	Nabi Muhammad=http://www.wikidata.org/entity/Q48, Allah=http://www.wikidata.org/entity/Q42
+942	[]
+2365	[]
+2477	[]
+408	[]
+784	[]
+932	Islam=http://www.wikidata.org/entity/Q1607, Basuki Tjahaja Purnama=http://www.wikidata.org/entity/Q3667, Djarot Saiful Hidayat=http://www.wikidata.org/entity/Q12481332
+2241	[]
+1412	Allah=http://www.wikidata.org/entity/Q20301
+2019	[]
+2535	[]
+1879	[]
+2015	[]
+1062	[]
+1160	[]
+818	[]
+766	[]
+44	[]
+1911	[]
+1457	[]
+2595	[]
+1998	[]
+903	Allah=http://www.wikidata.org/entity/Q2149, Al-Qur'an=http://www.wikidata.org/entity/Q1478, Nabi Muhammad=http://www.wikidata.org/entity/Q48801
+247	[]
+1357	[]
+2100	[]
+768	[]
+2331	[]
+1957	[]
+652	[]
+222	Allah=http://www.wikidata.org/entity/Q60, Al-Qur'an=http://www.wikidata.org/entity/Q27010
+867	[]
+1551	[]
+1381	Allah=http://www.wikidata.org/entity/Q42, Rasul=http://www.wikidata.org/entity/Q48, Nabi Muhammad=http://www.wikidata.org/entity/Q48
+2186	[]
+663	[]
+2565	[]
+1293	[]
+1570	[]
+415	[]
+2476	[]
+2221	Allah=http://www.wikidata.org/entity/Q30, Iblis=http://www.wikidata.org/entity/Q36834
+1380	[]
+171	Kami=http://www.wikidata.org/entity/Q11271
+1724	[]
+431	[]
+1475	[]
+1458	[]
+1256	[]
+568	[]
+1135	[]
+991	Nabi Muhammad=http://www.wikidata.org/entity/Q48
+1358	[]
+2360	[]
+1727	[]
+1227	[]
+1660	[]
+1456	[]
+681	[]
+2467	[]
+437	[]
+1094	Allah=http://www.wikidata.org/entity/Q114, Nabi Muhammad=http://www.wikidata.org/entity/Q48, langit=http://www.wikidata.org/entity/Q2516961
+1951	[]
+189	[]
+234	Nabi Muhammad=http://www.wikidata.org/entity/Q48810, dunia=http://www.wikidata.org/entity/Q27, Allah=http://www.wikidata.org/entity/Q2417
+979	Isa=http://www.wikidata.org/entity/Q5835, Bani Israil=http://www.wikidata.org/entity/Q1836, Allah=http://www.wikidata.org/entity/Q46
+694	[]
+808	[]
+1592	[]
+2411	[]
+1744	[]
+1711	[]
+255	[]
+1773	[]
+1648	[]
+2159	[]
+412	[]
+1476	Nabi Muhammad=http://www.wikidata.org/entity/Q48, sahabatmu=http://www.wikidata.org/entity/Q1484366
+2117	[]
+1712	Allah=http://www.wikidata.org/entity/Q283, Qabil=http://www.wikidata.org/entity/Q12924054
+874	[]
+837	[]
+2506	[]
+655	[]
+2288	[]
+1767	[]
+1653	[]
+2389	Musa=http://www.wikidata.org/entity/Q681, Fir'aun=http://www.wikidata.org/entity/Q1747367, kaumnya=http://www.wikidata.org/entity/Q1747367
+2464	[]
+436	[]
+2520	[]
+2485	[]
+1351	Yahudi=http://www.wikidata.org/entity/Q10451
+2184	[]
+421	[]
+1928	Allah=http://www.wikidata.org/entity/Q2108, Dia=http://www.wikidata.org/entity/Q2108
+980	[]
+1072	[]
+2366	[]
+2040	[]
+933	[]
+197	[]
+2168	[]
+94	[]
+658	[]
+2225	[]
+1663	Allah=http://www.wikidata.org/entity/Q27
+1510	Nabi Muhammad=http://www.wikidata.org/entity/Q48, Jahanam=http://www.wikidata.org/entity/Q167303
+135	[]
+533	[]
+240	[]
+842	Allah=http://www.wikidata.org/entity/Q930
+1187	[]
+2457	[]
+720	[]
+820	[]
+1481	[]
+1274	[]
+1191	Allah=http://www.wikidata.org/entity/Q33
+2608	[]
+1024	Allah=http://www.wikidata.org/entity/Q484, Nabi Muhammad=http://www.wikidata.org/entity/Q4882, Ibrahim=http://www.wikidata.org/entity/Q10345, Ismail=http://www.wikidata.org/entity/Q10345, Ishaq=http://www.wikidata.org/entity/Q10345, Ya'qub=http://www.wikidata.org/entity/Q10345, Musa=http://www.wikidata.org/entity/Q940, Isa=http://www.wikidata.org/entity/Q341700
+179	Nabi Muhammad=http://www.wikidata.org/entity/Q48
+1058	Islam=http://www.wikidata.org/entity/Q10472, umat Islam=http://www.wikidata.org/entity/Q10472, Allah =http://www.wikidata.org/entity/Q2212
+1221	[]
+757	[]
+965	Allah=http://www.wikidata.org/entity/Q567, Zakaria=http://www.wikidata.org/entity/Q115345
+1784	[]
+1048	Allah=http://www.wikidata.org/entity/Q250
+708	[]
+1509	[]
+1115	[]
+1940	[]
+545	[]
+1841	[]
+782	[]
+1407	[]
+839	[]
+2384	[]
+787	[]
+1107	[]
+1787	Nabi Muhammad=http://www.wikidata.org/entity/Q1155
+458	[]
+1741	[]
+2586	Allah=http://www.wikidata.org/entity/Q23, Muhammad=http://www.wikidata.org/entity/Q48817
+510	Al-Qur'an=http://www.wikidata.org/entity/Q2603, Allah=http://www.wikidata.org/entity/Q4831
+2087	Allah=http://www.wikidata.org/entity/Q483, Al-Qur'an=http://www.wikidata.org/entity/Q2136617
+1390	[]
+946	[]
+2512	[]
+2556	[]
+1877	[]
+297	Adam=http://www.wikidata.org/entity/Q12481400
+2076	[]
+2030	Nuh=http://www.wikidata.org/entity/Q175314, Daud=http://www.wikidata.org/entity/Q1120551, Sulaiman=http://www.wikidata.org/entity/Q1120552, Ayyub=http://www.wikidata.org/entity/Q1120553, Yusuf=http://www.wikidata.org/entity/Q1120554, Musa=http://www.wikidata.org/entity/Q1120555, Harun=http://www.wikidata.org/entity/Q1120556
+1772	[]
+1657	[]
+1303	[]
+169	[]
+1245	[]
+2261	[]
+1378	[]
+1056	[]
+2023	[]
+1713	[]
+1651	[]
+2245	[]
+2237	[]
+1432	[]
+369	[]
+2129	[]
+671	[]
+290	[]
+1793	Yahudi=http://www.wikidata.org/entity/Q9261, Allah=http://www.wikidata.org/entity/Q27
+227	Al-Qur'an=http://www.wikidata.org/entity/Q14717
+619	Nabi Muhammad=http://www.wikidata.org/entity/Q48813, Allah=http://www.wikidata.org/entity/Q242
+368	[]
+112	[]
+1405	[]
+1341	Allah=http://www.wikidata.org/entity/Q481
+2218	Allah=http://www.wikidata.org/entity/Q2120602
+959	Maryam=http://www.wikidata.org/entity/Q34375, Allah=http://www.wikidata.org/entity/Q27, Zakaria=http://www.wikidata.org/entity/Q479510
+1101	[]
+928	[]
+52	[]
+2402	[]
+1843	Allah=http://www.wikidata.org/entity/Q5020, kaum yang saleh =http://www.wikidata.org/entity/Q2069714
+2369	[]
+1212	[]
+1779	[]
+319	Bani Israil=http://www.wikidata.org/entity/Q9617621, patung=http://www.wikidata.org/entity/Q104824, anak sapi=http://www.wikidata.org/entity/Q104824
+1269	[]
+2327	Syuʻaib=http://www.wikidata.org/entity/Q24280264
+523	[]
+522	[]

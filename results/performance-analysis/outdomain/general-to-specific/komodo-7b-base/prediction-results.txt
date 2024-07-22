@@ -1,0 +1,263 @@
+2243	Adaam=http://www.wikidata.org/entity/Q10600, cucu=http://www.wikidata.org/entity/Q10600, Adam=http://www.wikidata.org/entity, Adam=http://www.wikidata.org/entity/Q10600, anak=http://www.wikidata.org/entity/Q10600
+176	Kaum=http://www.wikidata.org/entity/Q1111439, Kaum=http://www.wikidata.org/entity/Q11114395, Kami=http://www.wikidata.org/entity/Q20400145
+913	Olehsebab=http://www.wikidata.org/entity/Q131, Olehsebab=http://www.wikidata.org/entity/Q3112, mereka=http://www.wikidata.org/entity/Q1318533, Allah=http://www.wikidata.org/entity/Q3112, mereka=http://www.wikidata.org/entity/Q1318533, itu=http://www.wikidata.org/entity/Q1318533, dosa-dosanya=http://www.wikidata.org/entity/Q2688820, Olehsebab=http://www.wikidata.org/entity/Q3112
+1331	Allah=http://www.wikidata.org/entity/Q300
+2605	darah=http://www.wikidata.org/entity/Q10542, babi=http://www.wikidata.org/entity/Q20124, Allah=http://www.wikidata.org/entity/Q24, Allah=http://www.wikidata.org/entity/Q24, darah=http://www.wikid, darah=http://www.wikidata.org/entity/Q10542, babi=http://www.wikidata.org/entity/Q20124, darah=http://www.wikidata.org/entity/Q10542, dan=http://www.wikidata.org/entity/Q20124
+813	[]
+582	[]
+2298	Kami=http://www.wikidata.org/entity/Q1248, Hud=http://www.wikidata.org/entity/Q13466117, Kami=http://www.
+2106	Tuhan=http://www.wikidata.org/entity/Q11823
+1487	Allah=http://www.wikidata.org/entity/Q2522, Mengetahui=http://www.wikidata.org/entity/Q2522, Mahabijaksana=http://www.wikidata.org/entity/Q2522
+1968	Kami=http://www.wikidata.org/entity/Q2360556, mereka=http://www.wikidata.org/entity/Q2360556, Kami=http://www.wikid, Kesenangan=http://www.wikidata.org/entity/Q200567, Kami=http://www.wikidata.org/entity/Q2360556
+1186	Allah=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q252, mereka=http://www.wikidata.org/entity/Q12501, mereka=http://www.wikidata.org/entity/Q12501, mereka=http://www.wikidata.org/entity/Q12501
+195	Kami=http://www.wikidata.org/entity/Q10390524, Kamilah=http://www.wikidata.org/entity/Q10390524, Kamilah=http://www.wikidata.org/entity/Q103
+2426	[entity1=link1, entity2=link2].
+2252	Kami=http://www.wikidata.org/entity/Q1115203, tidakakan=http://www.wikidata.org/entity/Q1115203, beriman=http://www.wikidata.org/entity/Q1115203, lain=http://www.wikidata.org/entity/Q1115203, Indonesia=http://www.wikidata.org/entity/Q252, kami=http://www.wikidata.org/entity/Q1115203, (=http://www.wikidata.org/entity/Q1115203
+71	Muhammad=http://www.wikidata.org/entity/Q125, Aku=http://www.wikidata.org/entity/Q101929, Nabi=http://www.wikidata.org/entity/Q125, Injil=http://www.wikidata.org/entity/Q26976, bertakwa=http://www.wikidata.org/entity/Q101929, Rasul=http://www.wikidata.org/entity/Q101929, Injil=http://www.wikidata.org/entity/Q, Taurat=http://www.wikidata.org/entity/Q11333
+1607	rasul=http://www.wikidata.org/entity/Q21513, Ada=http://www.wikidata.org/entity/Q21513, mereka=http://www.wikidata.org, Ada=http://www.wikidata.org/entity/Q21513, rasul=http://www.wikidata.org/entity/Q21513, mereka=http://www.wikidata.org/entity/Q21513, kepadamu=http://www.wikidata.org/entity/Q21513
+597	[]
+930	[]
+33	Musa=http://www.wikidata.org/entity/Q12120, Musa=http://www.wikidata.org/entity/Q12120, Allah=http://www.wikidata.org/entity/Q600
+2399	Israil=http://www.wikidata.org/entity/Q4631, Muslim=http://www.wikidata.org/entity/Q114
+2493	Allah=http://www.wikidata.org/entity/Q2528, Allah=http://www.wikidata.org/entity/
+45	KotaBandung=http://www.wikidata.org/entity/Q10240, KotaBandung=http://www.wikidata.org
+57	Musa=http://www.wikidata.org/entity/Q12482
+1420	5=http://www.wikidata.org/entity/Q103, 5=http://www.wikidata.org/entity/Q10355
+2617	Tuhanmu=http://www.wikidata.org/entity/Q10305365, cara=http://www.wikidata.org/entity/Q10305365, Serulah=http://www.wikidata.org/entity/Q1, mereka=http://www.wikidata.org/entity/Q11005026, hikmah=http://www.wikidata.org/entity/Q11005026, Serulah=http://www.wikidata.org/entity/Q10305365, manusia=http://www.wikidata.org/entity/Q10305365, lebihbaik=http://www.wikidata.org/entity/Q11005026, debatlah=http://www.wikidata.org/entity/Q11005026, pengajaran=http://www.wikidata.org/entity/Q11005026
+835	Mahateliti=http://www.wikidata.org/entity/Q252, kamukerjakan=http://www.wikidata.org/entity/Q252, Indonesia=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q252, kamu=http://www.wikidata.org/entity/Q252, Indonesia=http://www.wikid
+830	[]
+388	Allah=http://www.wikidata.org/entity/Q, Allah=http://www.wikidata.org/entity/Q2528, mereka=http://www.wikidata.org/entity/Q2528
+1238	menukaryangbaikdenganyangburuk=http://www.wikidata.org/entity/Q10235525, hartamu=http://www.wikidata.org/entity/Q10235525
+931	Nasrani=http://www.wikidata.org/entity/Q11087, Islam=http://www.wikidata.org/entity/Q, Yahudi=http://www.wikidata.org/entity/Q11087, NabiMuhammad=http://www.wikidata.org/entity/Q2084, Nasrani=http://www.wikidata.org/entity/Q11087, Islam=http://www.wikidata.org/entity/Q1111
+803	Ibrahim=http://www.wikidata.org/entity/Q12638, Allah=http://www.wikidata.org/entity/Q305
+1742	Allah=http://www.wikidata.org/entity/Q252
+1548	[]
+606	[]
+1978	Islam=http://www.wikidata.org/entity/Q126, [entity1=link1, Allah=http://www.wikidata.org/entity/Q10100, entity2=link2]., Indonesia=http://www.wikidata.org/entity/Q252
+322	Penciptamu=http://www.wikidata.org/entity/Q2181330, Pekalongan=http://www.wikidata.org/entity/Q10108, Pekalongan=http://www.wikidata.org/entity/
+2135	akhirat=http://www.wikidata.org/entity/Q11118, Kelak=http://www.wikidata.org/entity/Q12201595, kamu=http://www.wikidata.org/entity/Q1432651, akhirat=http://www.wikidata.org/entity/Q1111870, nanti=http://www.wikidata.org/entity/Q303151, nanti=http://www.wikidata.org/entity/Q3031, Kelak=http://www.wikidata.org/entity/Q12201595, kamu=http://www.wikidata.org/entity/Q1432651, akhirat=http://www.wikidata, Kelak=http://www.wikidata.org/entity/Q12201595, kamu=http://www.wikidata.org/entity/Q14326
+1128	Allah=http://www.wikidata.org/entity/Q242, sabar=http://www.wikidata.org/entity/Q21250, Allah=http://www.wikidata.org/
+2492	[]
+1595	[]
+211	Allah=http://www.wikidata.org/entity/Q25, 531=http://www.wikidata.org/entity/Q25005531, Allah=http://www.wikidata.org/entity/Q25005531, 531=http://www.wikidata.org/entity/Q2500
+790	kegelapan=http://www.wikidata.org/entity/Q10035, aneka=http://www.wikidata.org/entity/Q10035, Dia=http://www.wikidata.org/entity/Q20810, iman=http://www.wikidata.org/entity/Q1128, Dia=http://www.wikidata.
+2291	Allah=http://www.wikidata.org/entity/Q, Allah=http://www.wikidata.org/entity/Q114652, Dia=http://www.wikidata.org/entity/Q114652, Allah=http://www.wikidata.org/entity/Q114652, Kaumku=http://www.wikidata.org/entity/Q114652
+1265	Allah=http://www.wikidata.org/entity/Q252
+1745	[]
+875	buy=http://www.wikidata.org/entity/Q3331, sales=http://www.wikidata.org/entity/Q3331, Ambillah=http://www.wikidata.org/entity/Q12338354, sulit=http://www.wikidata.org/entity/Q1123062
+2566	Dia=http://www.wikidata.org/entity/Q165887, permusuhan=http://www.wikidata.org/entity/Q134004, kemungkaran=http://www.wikidata.org/entity/Q134004, keji=http://www.wikidata.org/entity/Q134004, Dia=http://www.wikidata.org/
+679	Allah=http://www.wikidata.org/entity/Q125, Mendengar=http://www.wikidata.org/entity/Q125, Mengetahui=http://www.wikidata.org/entity/Q125
+1866	Memiliki=http://www.wikidata.org/entity/Q252, Mahaperkasa=http://www.wikidata.org/entity/Q252, Mahaperkasa=http://www.wikidata.org/entity/Q, Allah=http://www.wikidata.org/entity/Q252
+603	[]
+2410	[]
+696	[]
+74	NabiMuhammad=http://www.wikidata.org/entity/Q23025, Allah=http://www.wikidata.org/entity/Q643, Allah=http://www.wikidata.org/entity/Q643, bumi=http://www.wikidata.org/entity/Q230
+1851	Kafaratnya=http://www.wikidata, Kafaratnya=http://www.wikidata.org/entity/Q10527545
+212	Allah=http://www.wikidata.org/entity/Q5633, Tuhan=http://www.wikidata.org/entity/Q3161, kamu=http://www.wikidata.org/entity/Q1258071, kebenaran=http://www.wikidata.org/entity/Q20657, kesesatan=http://www.wikidata.org/entity/Q15774
+742	Allah=http://www.wikidata.org/entity/Q2528, Nya=http://www.wikidata.org, Nya=http://www.wikidata.org/entity/Q2528
+423	[entity1=link1, entity2=link2].
+403	Orang=http://www.wikidata.org/entity/Q13334, Kafir=http://www.wikidata.org/entity/Q147020, Kafir=http://
+912	[]
+2230	[]
+2126	kafir=http://www.wikidata.org/entity/Q244065, Kafir=http://www.wikidata.org/, Kami=http://www.wikidata.org/entity/Q2251, dunia=http://www.wikidata.org/entity/Q513, Kafir=http://www.wikidata.org/entity/Q244065
+1193	[]
+529	[]
+2482	Kami=http://www.wikidata.org/entity/Q, Kami=http://www.wikidata.org/entity/Q12633, Allah=http://www.wikidata.org/entity/Q111, Tagut=http://www.wikidata.org/entity/Q111, Kami=http://www.wikidata.org/entity/Q12633, tagut=http://www.wikidata.org/entity/Q111
+2542	[]
+299	Iblis=http://www.wikidata.org/entity/Q20454, Iblis=http://www.wikidata.org/entity/, kafir=http://www.wikidata.org/entity/Q12265
+174	Kami=http://www.wikidata.org/entity/Q178623, Kami=http://www.wikid
+644	Harta=http://www.wikidata.org/entity/Q, Harta=http://www.wikidata.org/entity/Q1155155
+2240	Allah=http://www.wikidata.org/entity/Q, NabiMuhammad=http://www.wikidata.org/entity/Q12632, Allah=http://www.wikidata.org/entity/Q00002
+942	Engkau=http://www.wikidata.org/entity/Q116804, malam=http://www.wikidata.org/entity/Q10534, siang=http://www.wikidata.org/entity/Q10534, malam=http://www.wikidata.org/entity/Q10534
+2365	[]
+2477	Kafir=http://www.wikidata.org/entity/Q259155, Tuhan=http://www.wikidata.org/entity/Q5613
+408	Mahakuasa=http://www.wikidata.org/entity/Q1668223, segalasesuatu=http://www.wikidata.org/entity/Q4233522, Allah=http://www., Allah=http://www.wikidata.org/entity/Q5611
+784	[]
+932	Islam=http://, Islam=http://www.wikidata.org/entity/Q126, Islam=http://www.wikidata.org/entity/Q126
+2241	NabiMuhammad=http://www.wikidata.org/entity/Q124, Tuhan=http://www.wikidata.org/entity/Q306
+1412	nikmat=http://www.wikidata.org/entity/Q114, Allah=http://www.wikidata.org/entity/Q252, nikmat=http://www.wikidata.org/entity/Q114, Allah=http://www.wikidata.org/entity/Q252, NabiMuhammad=http://www.wikidata.org/entity/Q123, manusia=http://www.wikidata.org/entity/Q392, Allah=http://www.wikidata.org/entity/Q252
+2019	[]
+2535	5=http://www.wikidata.org/entity/Q, Allah=http://www.wikidata.org/entity/Q2522, 5=http://www.wikidata.org/entity/Q2522
+1879	[]
+2015	Firman-Nya=http://www.wikidata.org/entity/Q12635, Firman=http://www.wikidata.org/entity/Q12635, Firman=http, Nyalah=http://www.wikidata.org/entity/Q712307
+1062	Medan=http://www.wikidata.org/entity/Q10106
+1160	52=http://www.wikidata.org/entity/Q252, 52=http://www.wikidata.org, Allah=http://www.wikidata.org/entity/Q252
+818	kamu=http://www.wikidata.org/entity/Q10258, Allah=http://www.wikidata.org/entity/Q2625, MahaMelihat=http://www.wikidata.org/entity/Q2625
+766	[]
+44	Lalu=http://www.wikidata.org/entity/Q125801, Kami=http://www.wikidata.org/entity/Q12580164, kami=http://www.wikidata.org/entity/Q12580164, Lalu=http://www.wikidata.org/entity/Q12580164, Kaummu=http://www.wikidata.org/entity/Q12580164, Kaummu=http://www.wikidata.org/entity/Q12580164, kaummu=http://www.wikidata.org/entity/Q12580164, Kami=http://www.wikidata.org/entity/Q12580164
+1911	Kemudian=http://www.wikidata.org/entity/Q13488591, kamu=http://www.wikidata.org/entity/Q13488591, Kemudian=http://www.wikidata.org/entity/Q13488591
+1457	[]
+2595	[]
+1998	Ketahuilahbahwasegalahukum=http://www.wikidata.org/entity/Q20605, Nya=http://www.wikidata.org/entity/Q20605, Dialah=http://www.wikidata.org/entity/Q20605, Negara=http://www.wikidata.org/entity/Q50, Dia=http://www.wikidata.org/entity/Q20605
+903	Allah=http://www.wikidata.org/entity/Q2076, NabiMuhammad=http://www.wikidata.org/entity/Q124, NabiMuhammad=http://www.wikidata.org/entity/Q124, 590=http://www.wikidata.org/entity/Q2076, Allah=http://www.wikidata.org/entity/Q2076
+247	[]
+1357	[]
+2100	[]
+768	[]
+2331	Kami=http://www.wikidata.org/entity/Q12253455, mereka=http://www.wikidata.org/entity/Q12253455, kami=http://www.wikidata.org/entity/Q12253455, siksaan=http://www.wikidata.org/entity/Q12253455, moyang=http://www.wikidata.org/entity/Q12253455
+1957	Adapun=http://www.wikidata.org/entity/Q30425, Allah=http://www.wikidata.org/entity/Q776, Adapun=http://www.wikidata.org/entity/Q30425, Nya=http://www.wikidata.org/entity/Q12603, Negara=http://www.wikidata.org/entity/Q252, Kelak=http://www.wikidata.org/entity/Q30425
+652	[]
+222	[]
+867	[]
+1551	[]
+1381	0=http://www, ululamri=http://www.wikidata.org/entity/Q1256325, NabiMuhammad=http://www.wikidata.org/entity/Q12, 0=http://www.wikidata.org/entity/Q1256325
+2186	MK=http://www.wikidata.org/entity/Q831552, Presiden=http://www.wikidata.org/entity/Q126, imannya=http://www.wikidata.org/entity/Q126, Abang=http://www.wikidata.org/entity/Q10605367, Tuhan=http://www.wikidata.org/entity/Q126, Kemenhub=http://www.wikidata.org/entity/Q10605367, KPK=http://www.wikidata.org/entity/Q310605367
+663	Allah=http://www.wikidata.org/entity/Q30145, Allah=http
+2565	kerabat=http://www.wikidata.org/entity/, kerabat=http://www.wikidata.org/entity/Q3022, Allah=http://www.wikidata.org/entity/Q252
+1293	[]
+1570	kafir=http://www.wikidata.org/entity/Q11154, Wahai=http://www.wikidata.org/entity/Q11237, mukmin=http://www.wikidata.org/entity/Q11155
+415	[]
+2476	[]
+2221	Iblis=http://www.wikidata.org/entity/Q13465, Allah=http://www.wikidata.org/entity/Q1099
+1380	Allah=http://www.wikidata.org/entity/Q252
+171	Kami=http://www.wikidata.org/entity/Q252, Kami=http://www.wikidata.org/entity/Q252, Manusia=http://www.wikidata.org/entity/Q1636, Kami=http://www.wikidata.org/entity/Q252, manusia=http://www.wikidata.org/entity/Q1636, Kami=http
+1724	5=http://www.wikidata.org/entity/Q10025, 5=http
+431	[]
+1475	Kafir=http://www.wikidata.org, Kafir=http://www.wikidata.org/entity/Q22125
+1458	Allah=http://, Allah=http://www.wikidata.org/entity/Q252
+1256	Allah=http://www.wikidata.org/entity/Q25, Bertakwalah=http://www.wikidata.org/entity/Q25, Allah=http://www.wikidata.
+568	[]
+1135	[]
+991	003=http://www.wikidata.org/entity/Q2626, 57=http://www.wikidata.org/entity/Q2626, 003=http, NabiMuhammad=http://www.wikidata.org/entity/Q2626
+1358	[]
+2360	[]
+1727	52=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q252
+1227	Allah=http://, Apa=http://www.wikidata.org/entity/Q300, Allah=http://www.wikidata.org/entity/Q252
+1660	[]
+1456	Jahanam=http://www.wikid, Jahanam=http://www.wikidata.org/entity/Q2066652
+681	52=http://www.wikidata.org/entity/Q2, 52=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q252
+2467	Orang-orang=http://www.wikidata.org/entity/Q12059, Orang-orang=http://www.wikidata.org/entity/Q1
+437	suci=http://www.wikidata.org/entity/Q1056010, berimanpadanya=https://www.wikidata.org/wiki/Q1056010
+1094	Allah=http://www.wikidata.org/entity/Q252, NabiMuhammad=http://www.wikidata.org/entity/Q252
+1951	[]
+189	Allah=http://www.wikidata.org/entity/Q242, Tunggulah=http://www.wikidata.org/entity/Q242, Sungguh=http://www.wikidata.org/entity/Q242, Allah=http://www.wikidata., Sesungguhnya=http://www.wikidata.org/entity/Q242, Gaib=http://www.wikidata.org/entity/Q242, Maka=http://www.wikidata.org/entity/Q242, Katakanlah=http://www.wikidata.org/entity/Q242
+234	NabiMuhammad=http://www.wikidata.org/entity/Q124, NabiMuhammad=http://www.wikidata.org/entity/Q124, Allah=http://www.wikidata.org/entity/Q11
+979	Allah=http://www.wikidata.org/entity/Q1125, Isa=http://www.wikidata.org/entity/Q2166, Israil=http://www.wikidata.org/entity/Q51706, Israil=http://www.wikidata.org/entity/Q51
+694	52=http://www.wikidata.org/entity/Q252, 52=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252=http://www.wikidata, Allah=http://www.wikidata.org/entity/Q252
+808	Allah=http://www.wikidata.org/entity/Q246, Indonesia=http://www.wikidata.org/entity/Q38
+1592	mereka=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q5680, Kami=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q5680, )=http://www.wikidata.org/entity/Q252, kafir=http://www.wikidata.org/entity/Q11573, terhadapketerangan-keteranganAllah=http://www.wikidata.org/entity/Q5680
+2411	Kami=http://www.wikidata.org/entity/Q115, Kami=http://www.wikidata.org/entity/Q115, dunia=http://www.wikidata.org/entity/Q12, dunia=http://www.wikidata.org/entity/Q12, Tuhan=http://www.wikidata.org/entity/Q302, Kami=http://www.wikidata.org/entity
+1744	Taurat=http://www.wikidata.org/entity/Q25702, Kami=http://www.wikidata.org/entity/Q300, Kami=http://
+1711	[entity1=link1, entity2=link2].
+255	Mīm=http://www.wikidata.org/entity/Q12581675
+1773	Allah=http://www.wikidata.org/entity/Q2528, Allah=http://www.wikidata.org/entity/Q2528, kaum=http://www.wikidata.org/entity/Q11187, zalim=http://www.wikidata.org/entity/Q21812
+1648	[]
+2159	Kandungan=http://www.wikidata.org/entity/Q11015, Katakanlah=http://www.wikidata.org/entity/Q13255752, Dia=http://www.wikidata.org/entity/Q2326015, Katakanlah=http://www.wik
+412	[]
+1476	NabiMuhammad=http://www.wikidata.org/entity/Q20623, sahabatmu=http://www.wikidata.org/entity/Q122585, mereka=http://www.wikidata.org/entity/Q20623, mereka=http://www.wikidata.org/entity/Q20623
+2117	azab=http://www.wikidata.org/entity/Q370127, Allah=http://www.wikidata.org/entity/Q5636, Orang-orang=http://www.wikidata.org/entity/Q11751, Allah=http://www.wikidata.org/entity/Q5636
+1712	Qabil=http://www.wikidata.org/entity/Q244635, Allah=http://www.wikidata.org/entity/Q27, Qabil=http://, gagak=http://www.wikidata.org/entity/Q120180
+874	[]
+837	infakkan=http://www.wikidata.org/entity/Q13038405, Kamu=http://www.wikidata.org/entity/Q3436672, Risma=http://www.wikidata.org/entity/Q13038405
+2506	[]
+655	[]
+2288	Aku=http://www.wikidata.org/entity/Q125583, Allah=http://www, Aku=http://www.wikidata.org/entity/Q125583, Allah=http://www.wikidata.org/entity/Q55, Allah=http://www.wikidata.org/entity/Q55
+1767	Allah=http://, Allah=http://www.wikidata.org/entity/Q252
+1653	NabiMuhammad=http://www.wikidata.org/entity/Q124, 55853=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http://www.wikidata.org/entity/Q124=http
+2389	kaum=http://www.wikidata.org/entity/Q1258, kaum=http://www, Musa=http://www.wikidata.org/entity/Q1258, kaum=http://www.wikidata.org/entity/Q1258
+2464	Allah=http://www.wikidata.org/entity/Q2528
+436	Allah=http://www.wikidata., Allah=http://www.wikidata.org/entity/Q11125, Katakanlah=http://www.wikidata.org/entity/Q17303255, Sungguh=http://www.wikidata.org/entity/Q17303255
+2520	ia=http://www.wikidata.org/entity/Q107385, ia=http://www.wikidata, ia=http://www.wikidata.org/entity/Q107385, mereka=http://www.wikidata.org/entity/Q107385, setan=http://www.wikidata.org/entity/Q107385, mereka=http://www.wikidata.org/entity/Q107385, mereka=http://www.wikidata.org/entity/Q107385, dunia=http://www.wikidata.org/entity/Q90, dunia=http://www.wikidata.org/entity/Q90, setan=http://www.wikidata.org/entity/Q107385
+2485	Allah=http://www.wikidata.org/entity/Q202, Allah=http://
+1351	Yahudi=http://www.wikidata.org/entity/Q1267
+2184	Kelak=http://www.wikidata.org/entity/Q1350124, Ayat=http://www.wikidata.org/entity/Q11014, Allah=http://www.wikidata.org/entity/Q37, Ayat=http://www.wikidata.org/entity/Q11014, Allah=http://www.wikidata.org/entity/Q37
+421	Kiamat=http://www.wikidata.org/entity/Q125, Allah=http://www.wikidata.org/entity/Q252
+1928	[]
+980	muslim=http://www.wikidata.org/entity/Q3728, setianya=http://www.wikidata.org/entity/Q21123, agama=http://www.wikidata.org/entity/Q3728, Allah=http://www.wikidata.org/entity/Q3728, kami=http://www.wikidata.org/entity/Q21123, kami=http://www.wikidata.org/entity/Q21123, kami=http://www.wikidata.org/entity/Q21123, Allah=http://www.wikidata.org/entity/Q3728=http://www.wikidata.org/entity/Q3728, hawari=http://www.wikidata.org/entity/Q2248223, sahabat=http://www.wikidata.org/entity/Q10532, Allah=http://www.wikidata.org/entity/Q3
+1072	[]
+2366	Allah=http://www.wikidata.org/entity/Q6173, Allah=http://www.wikidata.org/entity/
+2040	Allah=http://www.wikidata.org/entity/Q301, Allah=http://www.wikidata.org/entity/, nabi=http://www.wikidata.org/entity/Q124
+933	Negara=http://www.wikidata.org/entity/Q102, Allah=http://www.wikidata.org/entity/Q252
+197	siang=http://www.wikidata.org/entity/Q10256, keindahannya=http://www.wikidata.org/entity/Q237, bumi=http://www.wikidata.org/entity/Q237, siang=http://www.wikidata.org/, azabKami=http://www.wikidata.org/entity/Q2030235, bumi=http://www.wikidata.org/entity/Q237
+2168	kami=http://www.wik, kami=http://www.wikidata.org/entity/Q2766, Allah=http://www.wikidata.org/entity/Q2637, musyrik=http://www.wikidata.org/entity/Q2766, mereka=http://www.wikidata.org/entity/Q2766, moyang=http://www.wikidata.org/entity/Q2766, Tuhan=http://www.wikidata.org/entity/Q2637, orang-orang=http://www.wikidata.org/entity/Q2766, rasul=http://www.wikidata.org/entity/Q2637
+94	suci=http://www.wikidata.org/entity/Q27782, Taurat=http://www.wikidata.org/entity/Q10443, )=http://www.wikidata.org/entity/Q10443, Allah=http://www.wikidata.org/entity/Q376, Negeri=http://www.wikidata.org/entity/Q10443, suci=http://www.wikidata., )=http://www.wikidata.org/entity/Q10443
+658	Katakanlah=http://www.wikidata.org/entity/Q1161, Katakanlah=http://www.wikidata.org/entity/Q11610555
+2225	[]
+1663	Allah=http://www.wikidata.org/entity/Q25
+1510	Rasul=http://www.wikidata.org/entity/Q1256665, NabiMuhammad=http://www.wikidata.org/entity/Q12, NabiMuhammad=http://www.wikidata.org/entity/Q1256665, NabiMuhammad=http://www.wikidata.org/entity/
+135	[]
+533	Allah=http://www.wikidata.org/entity/Q300, Taurat=http://www.wikidata.org/entity/Q11504, Allah=http://www.wikidata.org/entity/Q300, Taurat=http://www.wikidata.org/entity/Q11504
+240	[]
+842	[]
+1187	[]
+2457	[]
+720	[]
+820	Kemudian=http://www.wikidata.org/entity/Q11464
+1481	Allah=http://www.wikidata.org/entity/Q3076, kafir=http://www.wikidata.org/entity/Q3076
+1274	[]
+1191	52=http://www.wikidata.org/entity/Q2, 52=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q252
+2608	[]
+1024	Musa=http://www.wikidata.org/entity/Q5136, Isa=http://www.wikidata.org/entity/Q12466, Tuhan=http://www.wikidata.org/entity/Q125, Ismail=http://www.wikidata.org/entity/Q5133, NabiMuhammad=http://www.wikidata.org/entity/Q23300, Allah=http://www.wikidata.org/entity/Q5131, Ishaq=http://www.wikidata.org/entity/Q5134, Ibrahim=http://www.wikidata.org/entity/Q7184
+179	Katakanlah=http://www.wikidata.org/entity/Q3168222, NabiMuhammad=http://www.wikidata.org/entity/Q12, Aku=http://www.wikidata., Kecuali=http://www.wikidata.org/entity/Q1102605, NabiMuhammad=http://www.wikidata.org/entity/Q120333, 5=http://www.wikidata.org/entity/Q120333, Aku=http://www.wikidata.org/entity/Q10102
+1058	Islam=http://www.wikidata.org/entity/Q11782, umatterbaik=http://www.wikidata.org/entity/Q11782, umatIslam=http://www.wikidata.org/entity/Q11782, umatIslam=http://www.wikidata.org/entity/Q11, umatIslam=http://www.wikidata.org/entity/Q11782, Islam=http://www.wikidata.org/entity/Q11782, manusia=http://www.wikidata.org/entity/Q126
+1221	anugerahilah=http://www.wikidata.org/entity/Q1746134, kami=http://www.wikidata.org/entity/Q148, Tuhan=http://www.wikidata.org/entity/Q588, kami=http://www.wikidata.org/entity/Q148, apa=http://www.wikidata.org/entity/Q310, Kiamat=http://www.wikidata.org/entity/Q14897, Engkau=http://www.wikidata.org/entity/Q1037, Engkau=http://www.wikidata.org/entity/Q1037, kami=http://www.wikidata.org/entity/Q148, hari=http://www.wikidata.org/entity/Q3100, rasul-Mu=http://www.wikidata.org/entity/Q1037, kami=http://www.wikidata.org/entity/Q148
+757	[]
+965	Zakaria=http://www.wikidata.org/entity/Q16496, Allah=http://www.wikidata.org/entity/Q4066, Zakaria=http://www.wikid, Maryam=http://www.wikidata.org/entity/Q113856, Jibril=http://www.wikidata.org/entity/Q16496
+1784	[entity1=link1, entity2=link2].
+1048	Allah=http://www, Neraka=http://www.wikidata.org/entity/Q11655, God=http://www.wikidata.org/entity/Q2, Allah=http://www.wikidata.org/entity/Q247
+708	Kamu=http://www.wikidata.org/entity/Q252, Allah=http://www.wikidata.org/entity/Q252
+1509	[]
+1115	Masa=http://www.wikidata.org/entity/Q21243, Kami=http://www.wikidata.org/entity/Q2185, Allah=http://www.wikidata.org/entity/Q65557, kejayaan=http://www.wikidata.org/entity/Q40767, gugur=http://www.wikidata.org/entity/Q126853, kehancuran=http://www.wikidata.org/entity/Q22832, Allah=http://www.wikidata.org/entity/Q65557, manusia=http://www.wikidata.org/entity/Q2185, Kami=http
+1940	Kecuali=http://www.wikidata.org/entity/Q1136136, mereka=http://www.wikidata.org/entity/Q25255, diri=http://www.wikidata.org/entity/Q25255, kita=http://www.wikidata.org/entity/Q25255, mereka=http://www.wikidata.org/entity/Q25255, kita=http://www.wik
+545	[]
+1841	[]
+782	langit=http://www.wikidata.org/entity/Q587515, bumi=http://www.wikidata.org/entity/Q252, kekuasaan=http://www.wikidata.org/entity/Q1011, Kursi=http://www.wikidata.org/entity/Q1047245, ilmu=http://www.wikidata.org/entity/Q1010, =http://www.wikidata.org/entity/Q252=http://www.wikidata.org/entity/Q252
+1407	[entity1=link1, entity2=link2].
+839	apapun=http://www.wikidata.org/entity/Q24388795, Allah=http://www.wikidata.org/entity/Q11167, Kamu=http://www.wikidata.org/entity/Q1268333, infakkan=http://www.wikidata.org/entity/Q24388795, Bumi=http://www.wikidata.org/entity/Q11167, Bumi=http://www.wikidata.
+2384	Kaumnya=http://www.wikidata.org/entity/Q3615
+787	[]
+1107	[]
+1787	NabiMuhammad=http://www.wikidata.org/entity/Q125, Allah=http://www.wikidata.org/entity/Q11
+458	NabiMuhammad=http://www.wikidata.org/entity/Q12476, Yahudi=http://www.wikidata.org/entity/Q1091, Nasrani=http://www.wikidata.org/entity/Q11854
+1741	[]
+2586	NabiMuhammad=http://www.wikidata.org/entity/Q3325, Kami=http://www.wikidata.org/entity/Q230, Mereka=http://www.wikidata.org/entity/Q2300, Allah=http://www.wikidata.org/entity/Q58, Kami=http://www.wikidata.org/entity/Q2300
+510	Kitab=http://www.wikidata.org/entity/Q2220, Allah=http://www.wikidata.org/entity/Q24
+2087	Allah=http://www.wikidata.org/entity/Q226, Kamu=http://www, Kami=http://www.wikidata.org/entity/Q1248, Kamu=http://www.wikidata.org/entity/Q528653, Kamu=http://www.wikidata.org/entity/Q528653, mereka=http://www.wikidata.org/entity/Q205, merekatidak=http://www.wikidata.org/entity/Q205, tidak=http://www.wikidata.org/entity/Q1248
+1390	Kami=http://www.wikidata.org/entity/Q11465
+946	Nya=http://www.wikidata.org/entity/Q, Nya=http://www.wikidata.org/entity/Q341, Allah=http://www.wikidata.org/entity/Q341
+2512	[]
+2556	[entity1=link1, entity2=link2].
+1877	kamu=http://www.wikidata.org/entity/Q1080568, Allah=http://www.wikidata.org/entity/Q252
+297	Bumi=http://www.wikidata.org/entity/Q134, Adam=http://www.wikidata.org/entity/Q1206350
+2076	[]
+2030	Sulaiman=http://www.wikidata.org/entity/Q12396, Daud=http://www.wikidata.org/entity/Q12396, Ayyub=http://www.wikidata.org/entity/Q12396, Yusuf=http://www.wikidata.org/entity/Q12396, Musa=http://www.wikidata.org/entity/Q12396, Harun=http://www.wikidata.org/entity/Q12396, Nuh=http://www.wikidata.org/entity/Q1489277, Kami=http://www.wikidata.org/entity/Q1489277
+1772	[]
+1657	kehormatandi=http://www.wikidata.org/entity/Q1188457, Ahlulkitab=http://www.wikidata.org/entity/Q101611, mereka=http://www.wikidata.org/entity/Q32889, beriman=http://www.wikidata.org/entity/Q12536, orang-orang=http://www, kehormatan=http://www.wikidata.org/entity/Q1188457, perempuan-perempuan=http://www.wikidata.org/entity/Q12536, perempuan-perempuan=http://www.wikidata.org/entity/Q12536, perempuan-perempuan=http://www.wikidata.org/entity/Q12536, beriman=http://www.wikidata.org/entity/Q12536
+1303	Allah=http://www.wikidata.org/entity/Q125, 5=http://www.wikidata.org/entity/Q125, 5=http://www.wikid
+169	[]
+1245	[]
+2261	Salāmun=http://www.wikidata.org/entity/Q1209832, Alaykum=http://www.wikidata., Alaykum=http://www.wikidata.org/entity/Q1209832
+1378	[]
+1056	Alam=http://www.wikidata.org/entity/Q423, Allah=http://, Allah=http://www.wikidata.org/entity/Q252
+2023	[]
+1713	gagak=http://www.wikidata.org/entity/Q3426, aku=http://www.wikidata.org/entity/Q316825
+1651	[]
+2245	[]
+2237	[]
+1432	[]
+369	[]
+2129	Tuhan=http://www.wikidata.org/entity/Q68630
+671	Allah=http://www.wikidata.org/entity/Q25
+290	[]
+1793	Yahudi=http://www.wikidata.org/entity/Q126
+227	0=http://www.wikidata.org/entity/Q124
+619	NabiMuhammad=http://www.wikidata.org/entity/Q2132, 5=http://www.wikidata.org/entity/Q2132
+368	[]
+112	52=http://www.wikidata.org/entity/Q252, 52=http://www.wikidata.org/entity, Allah=http://www.wikidata.org/entity/Q252
+1405	Tagut=http://www.wikidata.org/entity/Q216875, Mu=http://www.wikidata.org/entity/Q216875
+1341	Allah=http://, Allah=http://www.wikidata.org/entity/Q252
+2218	Allah=http://www.wikidata.org/entity/Q3122, 5=http://www.wikidata.org/entity/Q3122
+959	Zakaria=http://www.wikidata.org/entity/Q20027, Maryam=http://www.wikidata.org/entity/Q21621, Allah=http://www.wikidata.org/entity/Q3726, Allah=http://www.wikidata.org/entity/Q3726, Maryam=http://www.wikidata.org/entity/Q21621, Allah=http://
+1101	Wahai=http://www.wikidata.org/entity/Q1146381, Wahai=http://www.wikidata.org/entity/Q1, riba=http://www.wikidata.org/entity/Q37429, Allah=http://www.wikidata.org/entity/Q84
+928	Allah=http://www.wikidata.org/entity/Q3, Allah=http://www.wikidata.org/entity/Q362, Islam=http://www.wikidata.org/entity/Q126
+52	patung=http://www.wikidata.org/entity/Q270025, sapi=http://www.wikidata.org/entity/Q270025
+2402	Taurat=http://www.wikidata.org/entity/Q12567
+1843	5=http://www.wikidata.org/entity/Q10466, kebenaran=http://www.wikidata.org/entity/Q3996, Kaum=http://www.wikidata.org/entity/Q10466, Kami=http://www.wikid, Allah=http://www.wikidata.org/entity/Q252, Kami=http://www.wikidata.org/entity/Q10466
+2369	Kamu=http://www.wikidata.org/entity/Q108832
+1212	[]
+1779	MahaMengetahui=http://www.wikidata.org/entity/Q25, Allah=http://www.wikidata.org/entity/Q25, MahaLuas=http://www.wikidata.org/entity/Q25
+319	sapi=http://www.wikidata.org/entity/Q1076827, Israil=http://www.wikidata.org/entity/Q10013
+1269	[]
+2327	Syuʻaib=http://www.wikidata.org/entity/Q2272371, Syuʻaib=http://www.wikidata.org/entity/Q22723
+523	[]
+522	kami=http://www.wikidata.org/entity/Q1200, kami=http://www.wikidata.org/entity/Q1200, kami=http://www.wikidata.org/entity/Q12, Orang-orang=http://www.wikidata.org/entity/Q1200, dunia=http://www.wikidata.org/entity/Q114, mereka=http://www.wikidata.org/entity/Q1200, kami=http://www.wikidata.org/entity/Q1200, mereka=http://www.wikidata.org/entity/Q1200
