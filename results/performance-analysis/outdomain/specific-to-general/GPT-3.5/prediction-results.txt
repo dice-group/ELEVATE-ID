@@ -1,0 +1,212 @@
+597	[]
+1996	[]
+423	Battle of Surabaya=http://www.wikidata.org/entity/Q163759
+290	Indofood=http://www.wikidata.org/entity/Q2090340
+197	Jokowi=http://www.wikidata.org/entity/Q1765602
+747	[]
+858	Menteri Pendidikan dan Kebudayaan Anies Baswedan=http://www.wikidata.org/entity/Q5160013
+1611	Inter=http://www.wikidata.org/entity/Q31772
+1190	Jakarta Pusat=http://www.wikidata.org/entity/Q510854
+1630	Risma=http://www.wikidata.org/entity/Q631858
+1001	Android=http://www.wikidata.org/entity/Q839, Samsung=http://www.wikidata.org/entity/Q3803108, Bada=http://www.wikidata.org/entity/Q772216
+1345	Zune=http://www.wikidata.org/entity/Q47583, Windows Mobile 7=http://www.wikidata.org/entity/Q49213880, Microsoft=http://www.wikidata.org/entity/Q228, Bada=http://www.wikidata.org/entity/Q579298, Samsung=http://www.wikidata.org/entity/Q1776347
+1681	Jokowi=http://www.wikidata.org/entity/Q48910, Ambon=http://www.wikidata.org/entity/Q217478
+1577	PSG=http://www.wikidata.org/entity/Q8447, Ibra=http://www.wikidata.org/entity/Q12510, Adrien Rabiot=http://www.wikidata.org/entity/Q16259701, City=http://www.wikidata.org/entity/Q26909, Kevin De Bruyne=http://www.wikidata.org/entity/Q55709, Fernandinho=http://www.wikidata.org/entity/Q2321717
+2050	Ignasius Jonan=http://www.wikidata.org/entity/Q21115810
+71	Apple=http://www.wikidata.org/entity/Q312, Samsung=http://www.wikidata.org/entity/Q3715
+1138	Telkom=http://www.wikidata.org/entity/Q470416
+975	[]
+1513	Menteri Hukum dan HAM Yasonna Laoly=http://www.wikidata.org/entity/Q5354801
+737	Lee Yong Dae=http://www.wikidata.org/entity/Q6254095, Yoo Yeon Seong=http://www.wikidata.org/entity/Q17981625, Korsel=http://www.wikidata.org/entity/Q884, Li Junhui=http://www.wikidata.org/entity/Q17941021, Liu Yuchen=http://www.wikidata.org/entity/Q13159461, China=http://www.wikidata.org/entity/Q148
+1279	DKI Jakarta=http://www.wikidata.org/entity/Q1227, Basuki Tjahaja Purnama=http://www.wikidata.org/entity/Q1227729
+786	Badrodin Haiti=http://www.wikidata.org/entity/Q20058548, TNI=http://www.wikidata.org/entity/Q3776603, Poso=http://www.wikidata.org/entity/Q1978589, Sulawesi Tengah=http://www.wikidata.org/entity/Q165867
+325	PDIP=http://www.wikidata.org/entity/Q1705405
+1992	[]
+212	Saleh=http://www.wikidata.org/entity/Q5167129, Patimban=http://www.wikidata.org/entity/Q101270541, Cilamaya=[], Karawang=http://www.wikidata.org/entity/Q497806
+1048	pariwisata Korea=http://www.wikidata.org/entity/Q884, Korean Wave=http://www.wikidata.org/entity/Q15542310, Lee Min Ho=http://www.wikidata.org/entity/Q534661
+1342	Soeharto=http://www.wikidata.org/entity/Q48434, Megawati Soekarnoputri=http://www.wikidata.org/entity/Q168578
+1834	Wolfsburg=http://www.wikidata.org/entity/Q209915, Real Madrid=http://www.wikidata.org/entity/Q2808546
+1693	Klopp=http://www.wikidata.org/entity/Q451805
+963	DPR=http://www.wikidata.org/entity/Q2388586, Golkar=http://www.wikidata.org/entity/Q984161
+1837	Premier League=http://www.wikidata.org/entity/Q1334752, Christian Eriksen=http://www.wikidata.org/entity/Q528228, Mesut Oezil=http://www.wikidata.org/entity/Q52799
+789	[]
+409	3 April=http://www.wikidata.org/entity/Q2418163, Keselamatan Pantai Timur Sabah=http://www.wikidata.org/entity/Q982478, Pulau Mataking=http://www.wikidata.org/entity/Q7317427
+255	Murray=http://www.wikidata.org/entity/Q324200, Roger Federer=http://www.wikidata.org/entity/Q3813
+1314	Pellegrini=http://www.wikidata.org/entity/Q5164362
+631	Pesta Rakyat=http://www.wikidata.org/entity/Q6453582
+1999	Walt Disney=http://www.wikidata.org/entity/Q8355, Berkshire=[], Inggris=http://www.wikidata.org/entity/Q2033385, Joker ' s Masquerade=http://www.wikidata.org/entity/Q28814498
+487	Samsung=http://www.wikidata.org/entity/Q37110, Galaxy S III=http://www.wikidata.org/entity/Q633742
+555	Samsung=http://www.wikidata.org/entity/Q37110
+999	Selat Bali=http://www.wikidata.org/entity/Q1792595
+238	Jakarta=http://www.wikidata.org/entity/Q347, Jokowi=http://www.wikidata.org/entity/Q8316, Museum Trikora=http://www.wikidata.org/entity/Q27709023, Morotai=http://www.wikidata.org/entity/Q2571699, Kabupaten Halmahera Utara=http://www.wikidata.org/entity/Q2607858
+1876	[]
+1376	Batik Air=http://www.wikidata.org/entity/Q19837500
+291	Leicester=http://www.wikidata.org/entity/Q324858, Premier League=http://www.wikidata.org/entity/Q17622
+480	[]
+584	Samsung=http://www.wikidata.org/entity/Q3802
+544	Tsonga=http://www.wikidata.org/entity/Q444489, Federer=http://www.wikidata.org/entity/Q380409
+1925	Gubernur Jakarta Ahok=http://www.wikidata.org/entity/Q12555366, Menko Kemaritiman Rizal Ramli=http://www.wikidata.org/entity/Q21016762, Menko Perekonomian Darmin Nasution=http://www.wikidata.org/entity/Q4881743, Menhub Ignasius Jonan=http://www.wikidata.org/entity/Q18779340
+1178	[]
+276	[]
+30	Kala=http://www.wikidata.org/entity/Q265216
+1814	Vieirinha=http://www.wikidata.org/entity/Q464039
+282	Istana Kepresidenan RI=http://www.wikidata.org/entity/Q4883164, Ketua Umum PDIP Megawati Soekarnoputri=http://www.wikidata.org/entity/Q1961177
+185	Sociedad=http://www.wikidata.org/entity/Q51677, Barca=http://www.wikidata.org/entity/Q37912, Liga Champions=http://www.wikidata.org/entity/Q177145
+1631	Disney=http://www.wikidata.org/entity/Q37106, Tiongkok=http://www.wikidata.org/entity/Q148
+234	Inter Milan=http://www.wikidata.org/entity/Q47883, Serie A=http://www.wikidata.org/entity/Q236218
+1152	Kota Surabaya=http://www.wikidata.org/entity/Q1324, Asia-Pasifik=http://www.wikidata.org/entity/Q48, Future Government Awards 2013=http://www.wikidata.org/entity/Q17150166, Asia-Pasifik=http://www.wikidata.org/entity/Q48
+1987	Indonesia=http://www.wikidata.org/entity/Q252
+1500	Jakarta=http://www.wikidata.org/entity/Q489, Manuel Pellegrini=http://www.wikidata.org/entity/Q516581, Paris Saint-Germain=http://www.wikidata.org/entity/Q84409
+1717	Risma=http://www.wikidata.org/entity/Q470005
+1363	London=http://www.wikidata.org/entity/Q84, Arsene Wenger=http://www.wikidata.org/entity/Q1993235, Arsenal=http://www.wikidata.org/entity/Q96, Premier League=http://www.wikidata.org/entity/Q424009
+808	Program Keluarga Harapan (PKH)=http://www.wikidata.org/entity/Q47058663, Asistensi Sosial Penyandang Disabilitas Berat (ASPDB)=http://www.wikidata.org/entity/Q1009022, Asistensi Sosial Lanjut Usia (ASLU)=http://www.wikidata.org/entity/Q1009022, Kartu Indonesia Pintar (KIP)=http://www.wikidata.org/entity/Q20024015, Beras untuk Rakyat Sejahtera (Beras Rastra)=http://www.wikidata.org/entity/Q50181606, Terminal Suasio=[], Halmahera Utara=http://www.wikidata.org/entity/Q4783358
+818	Partai Demokrat-PAN=http://www.wikidata.org/entity/Q3462104
+2036	MU=http://www.wikidata.org/entity/Q13320, Liga Champions=http://www.wikidata.org/entity/Q176179
+1850	Toyota Sienta=http://www.wikidata.org/entity/Q21418911, Indonesia=http://www.wikidata.org/entity/Q252
+68	Los Angeles=http://www.wikidata.org/entity/Q65, Walt Disney Co.=http://www.wikidata.org/entity/Q8358, MySpace.com=http://www.wikidata.org/entity/Q2337435
+129	Istana Negara=http://www.wikidata.org/entity/Q1694329, Jakarta=http://www.wikidata.org/entity/Q347
+545	Jokowi=http://www.wikidata.org/entity/Q1657752, Ahok=http://www.wikidata.org/entity/Q5116347
+2063	Jokowi=http://www.wikidata.org/entity/Q16933618
+52	PDIP=http://www.wikidata.org/entity/Q1741832, Jokowi=http://www.wikidata.org/entity/Q16567859
+1095	Taufik=http://www.wikidata.org/entity/Q472209, Roger Federer=http://www.wikidata.org/entity/Q38110, Indonesia=http://www.wikidata.org/entity/Q252
+1945	PT Pos Indonesia (Persero)=http://www.wikidata.org/entity/Q189176
+608	Telkom=http://www.wikidata.org/entity/Q2511709, Bukaka SingTel=http://www.wikidata.org/entity/Q86047710, KTI=http://www.wikidata.org/entity/Q5377587
+2088	Joko Widodo=http://www.wikidata.org/entity/Q1768159
+1375	Bandara Internasional Juwata=http://www.wikidata.org/entity/Q6508692, Jokowi=http://www.wikidata.org/entity/Q1763804
+300	Gedung Sawunggaling=http://www.wikidata.org/entity/Q16974286, Pemkot Surabaya=http://www.wikidata.org/entity/Q347470, Wakil Walikota Surabaya=http://www.wikidata.org/entity/Q82074288, Arief Afandi=http://www.wikidata.org/entity/Q106486554, Telkom Divre V Jawa Timur=http://www.wikidata.org/entity/Q67085800, Nanang Ismail Kosim=http://www.wikidata.org/entity/Q107962495
+1921	Menhub Ignasius Jonan=http://www.wikidata.org/entity/Q17632305, Menkominfo Rudiantara=http://www.wikidata.org/entity/Q20833994
+232	Komisi Pemberantasan Korupsi=http://www.wikidata.org/entity/Q2732794, Abdul Basir=http://www.wikidata.org/entity/Q96125964, PT Windhu Tunggal Utama=http://www.wikidata.org/entity/Q1064832, Abdul Khoir=http://www.wikidata.org/entity/Q96125966, Senin (2/5/2016)=http://www.wikidata.org/entity/Q854495
+368	Golkar=http://www.wikidata.org/entity/Q192475, Aburizal Bakrie=http://www.wikidata.org/entity/Q4899821
+1786	KNKT=http://www.wikidata.org/entity/Q469540
+308	ZTE=http://www.wikidata.org/entity/Q290476, iPhone=http://www.wikidata.org/entity/Q27630, Apple=http://www.wikidata.org/entity/Q371, Galaxy Samsung=http://www.wikidata.org/entity/Q731064
+1520	Cyrus Network=http://www.wikidata.org/entity/Q27277699, Hasan Nasbi=http://www.wikidata.org/entity/Q20942801
+1740	Jokowi=http://www.wikidata.org/entity/Q17531425
+496	Jonan=http://www.wikidata.org/entity/Q8279454, Bandara Juwata=http://www.wikidata.org/entity/Q6794779
+974	PKB=http://www.wikidata.org/entity/Q219597, Daniel Johan=http://www.wikidata.org/entity/Q98232361
+614	Taman Ismail Marzuki=http://www.wikidata.org/entity/Q7704168, Cikini=http://www.wikidata.org/entity/Q1652562, Jakarta Pusat=http://www.wikidata.org/entity/Q1857196, Unit Pelaksanan Teknis Perparkiran Dinas Perhubungan dan Transportasi Pemprov DKI Jakarta=http://www.wikidata.org/entity/Q4900415
+112	Arsenal=http://www.wikidata.org/entity/Q96, Leicester=http://www.wikidata.org/entity/Q11422
+1766	Wolfsburg=http://www.wikidata.org/entity/Q214112, Leverkusen=http://www.wikidata.org/entity/Q5844, Madrid=http://www.wikidata.org/entity/Q28012
+1308	Jokowi=http://www.wikidata.org/entity/Q1754285
+252	Wolfsburg=http://www.wikidata.org/entity/Q8722, Madrid=http://www.wikidata.org/entity/Q2808
+299	Galaxy S III=http://www.wikidata.org/entity/Q875908
+1412	Piala Bhayangkara=http://www.wikidata.org/entity/Q98232368
+1044	[]
+121	Federer=http://www.wikidata.org/entity/Q38073, Davydenko=http://www.wikidata.org/entity/Q450142
+793	Singapura=http://www.wikidata.org/entity/Q366, Lee Kuan Yew=http://www.wikidata.org/entity/Q985006, Megawati Soekarnoputri=http://www.wikidata.org/entity/Q1497363
+1709	Zidane=http://www.wikidata.org/entity/Q195008
+1341	Klopp=http://www.wikidata.org/entity/Q2002762, Die Borussen=http://www.wikidata.org/entity/Q2380494, Bundesliga=http://www.wikidata.org/entity/Q1347227, DFB-Pokal=http://www.wikidata.org/entity/Q1802242, Piala Super Jerman=http://www.wikidata.org/entity/Q15686710
+110	Madrid=http://www.wikidata.org/entity/Q2808, Casemiro=http://www.wikidata.org/entity/Q2002329, Karim Benzema=http://www.wikidata.org/entity/Q51507, Wolfsburg=http://www.wikidata.org/entity/Q2534
+1880	AS=http://www.wikidata.org/entity/Q30, AS-ASEAN=http://www.wikidata.org/entity/Q2346492, AS=http://www.wikidata.org/entity/Q30, ASEAN=http://www.wikidata.org/entity/Q2346492, Obama=http://www.wikidata.org/entity/Q76
+1784	Hed=http://www.wikidata.org/entity/Q24017112, Disneyland=http://www.wikidata.org/entity/Q8544
+1288	Dirjen Perhubungan Udara Suprasetyo=http://www.wikidata.org/entity/Q27967741
+2104	Johan=http://www.wikidata.org/entity/Q7730157, Grab Taksi=http://www.wikidata.org/entity/Q21302010, Uber=http://www.wikidata.org/entity/Q2092579
+565	Jakarta=http://www.wikidata.org/entity/Q351786
+1091	Siti Nurbaya=http://www.wikidata.org/entity/Q20822812, Jakarta=http://www.wikidata.org/entity/Q4896, Risma=http://www.wikidata.org/entity/Q6447403, Pemkot Surabaya=http://www.wikidata.org/entity/Q347468
+2107	Indofood=http://www.wikidata.org/entity/Q2098672, Wisma Indocement=http://www.wikidata.org/entity/Q961336
+1944	Presiden Direktur PT Maruki Internasional Indonesia=http://www.wikidata.org/entity/Q2095353
+483	Arnold=http://www.wikidata.org/entity/Q10255110, Marcelo=http://www.wikidata.org/entity/Q21063322
+421	detikINET=http://www.wikidata.org/entity/Q4758942, Gizmodo=http://www.wikidata.org/entity/Q2190965, Samsung=http://www.wikidata.org/entity/Q177877
+1899	Gabriel=http://www.wikidata.org/entity/Q24247579
+1927	[]
+1085	Uber=http://www.wikidata.org/entity/Q335742
+101	Bank Central Asia=http://www.wikidata.org/entity/Q380569, Bank Rakyat Indonesia=http://www.wikidata.org/entity/Q2694687, Indofood Sukses Makmur=http://www.wikidata.org/entity/Q12092815, Telkom=http://www.wikidata.org/entity/Q647742
+1240	Pertamina=http://www.wikidata.org/entity/Q380477, Afdal Bahaudin=http://www.wikidata.org/entity/Q25020600, Kompas=http://www.wikidata.org/entity/Q1858932, Pertamina=http://www.wikidata.org/entity/Q380477, Rio=http://www.wikidata.org/entity/Q516335
+939	Rini=http://www.wikidata.org/entity/Q2095353, DPP PDIP=http://www.wikidata.org/entity/Q16001266
+998	Leicester City=http://www.wikidata.org/entity/Q458633, Premier League=http://www.wikidata.org/entity/Q1270, Sunderland=http://www.wikidata.org/entity/Q44384, Stadium of Light=http://www.wikidata.org/entity/Q483714
+1394	Thunder=http://www.wikidata.org/entity/Q976338, Kevin Durant=http://www.wikidata.org/entity/Q494481, Russell Westbrook=http://www.wikidata.org/entity/Q500877
+980	Song Joong Ki=http://www.wikidata.org/entity/Q6146197, Korea=http://www.wikidata.org/entity/Q884, Korea Tourism Organization=http://www.wikidata.org/entity/Q1782599, Song Joong Ki=http://www.wikidata.org/entity/Q6146197
+2106	[]
+1553	Partai Demokrat=http://www.wikidata.org/entity/Q2380157, Susilo Bambang Yudhoyono=http://www.wikidata.org/entity/Q43918
+57	Golkar=http://www.wikidata.org/entity/Q192644, Presiden=http://www.wikidata.org/entity/Q1168672
+1293	Mainz=http://www.wikidata.org/entity/Q2605, Bundesliga=http://www.wikidata.org/entity/Q189242, Madrid=http://www.wikidata.org/entity/Q2807
+1761	Penyertaan Modal Negara=http://www.wikidata.org/entity/Q2401713, Rini=http://www.wikidata.org/entity/Q63185811
+1330	Ahok-Djarot=http://www.wikidata.org/entity/Q1767004
+1132	Volkswagen Arena=http://www.wikidata.org/entity/Q280729, Liga Champions=http://www.wikidata.org/entity/Q186177, Madrid=http://www.wikidata.org/entity/Q2807
+553	PKB=http://www.wikidata.org/entity/Q1727309, Marwan Jafar=http://www.wikidata.org/entity/Q5943472, Menteri Desa dan Pembangunan Daerah Tertinggal dan Transmigrasi (PDTT)=http://www.wikidata.org/entity/Q12777878
+1403	Ibra=http://www.wikidata.org/entity/Q121242
+950	Analyst Telecom Media=
+1455	Murray=http://www.wikidata.org/entity/Q37910, Jeremy Chardy=http://www.wikidata.org/entity/Q3354497, Federer=http://www.wikidata.org/entity/Q380474, Gael Monfils=http://www.wikidata.org/entity/Q735667, Suzanne-Lenglen=http://www.wikidata.org/entity/Q3024782
+687	Mega=http://www.wikidata.org/entity/Q4574768, RI=http://www.wikidata.org/entity/Q983540
+1719	Jokowi=http://www.wikidata.org/entity/Q1763802
+1978	Boediono=http://www.wikidata.org/entity/Q488978, Megawati Soekarnoputri=http://www.wikidata.org/entity/Q260323
+430	Federer=http://www.wikidata.org/entity/Q38073, Yaman=http://www.wikidata.org/entity/Q800
+1594	Singapore=http://www.wikidata.org/entity/Q334, UK=http://www.wikidata.org/entity/Q21, Rio=http://www.wikidata.org/entity/Q5265400, Hotel Crowne Plaza=[], Milan=http://www.wikidata.org/entity/Q488500
+1916	Pos Indonesia=http://www.wikidata.org/entity/Q1697425, PT Pos Indonesia=http://www.wikidata.org/entity/Q1697425, Gilarsi Wahju Setijono=http://www.wikidata.org/entity/Q105980187
+1117	[]
+1090	Pete=http://www.wikidata.org/entity/Q319064, Federer=http://www.wikidata.org/entity/Q38112, BBC=http://www.wikidata.org/entity/Q388
+1407	Telkom=http://www.wikidata.org/entity/Q1030822
+1646	[]
+486	Batik Air=http://www.wikidata.org/entity/Q5534177, Makassar=http://www.wikidata.org/entity/Q9192, ATR TransNusa=http://www.wikidata.org/entity/Q53659326
+1069	Telkom=http://www.wikidata.org/entity/Q16886066, Rochiman Sukarno=http://www.wikidata.org/entity/Q9881747
+1792	[]
+1161	PKB=http://www.wikidata.org/entity/Q527858
+531	Federer=http://www.wikidata.org/entity/Q38082, ATP=http://www.wikidata.org/entity/Q187362, Kanada=http://www.wikidata.org/entity/Q16, Montreal=http://www.wikidata.org/entity/Q340, Toronto=http://www.wikidata.org/entity/Q48606
+428	Kenjeran=http://www.wikidata.org/entity/Q66485834, Kecamatan Bulak=http://www.wikidata.org/entity/Q66558266, Taman Hiburan Pantau (THP) Kenjeran=http://www.wikidata.org/entity/Q66485834
+70	Leicester=http://www.wikidata.org/entity/Q324894
+369	Telkom=http://www.wikidata.org/entity/Q1689505, BTPN=http://www.wikidata.org/entity/Q28125714, Inco=http://www.wikidata.org/entity/Q2708051, Bumi Resources=http://www.wikidata.org/entity/Q4774167, Semen Gresik=http://www.wikidata.org/entity/Q577582, BRI=http://www.wikidata.org/entity/Q1640034, Indofood=http://www.wikidata.org/entity/Q3740631
+1653	Samsung=http://www.wikidata.org/entity/Q37110
+1933	London=http://www.wikidata.org/entity/Q84, Leicester City=http://www.wikidata.org/entity/Q11422, Premier League=http://www.wikidata.org/entity/Q214690
+520	Pramono Anung=http://www.wikidata.org/entity/Q472668
+669	PDIP=http://www.wikidata.org/entity/Q1288585
+580	Bale=http://www.wikidata.org/entity/Q420496
+1037	Johan=http://www.wikidata.org/entity/Q106196656
+248	Indosat=http://www.wikidata.org/entity/Q645338, PT Indosat Tbk=http://www.wikidata.org/entity/Q645338, PT Telkom Tbk=http://www.wikidata.org/entity/Q1892547
+1357	Samsung=http://www.wikidata.org/entity/Q380714, HTC=http://www.wikidata.org/entity/Q2303805, Asus=http://www.wikidata.org/entity/Q9734, UI=http://www.wikidata.org/entity/Q4329462, OS Android Honeycomb 3=http://www.wikidata.org/entity/Q12313414
+612	Disney=http://www.wikidata.org/entity/Q37180
+671	Dermaga Biriosi=http://www.wikidata.org/entity/Q26710410, Sanggeng=http://www.wikidata.org/entity/Q26710410, Manokwari=http://www.wikidata.org/entity/Q2662762, Papua Barat=http://www.wikidata.org/entity/Q2064
+1362	Parc des Princes=http://www.wikidata.org/entity/Q319509, Liga Champions=http://www.wikidata.org/entity/Q177837
+1603	Disney=http://www.wikidata.org/entity/Q102818
+1804	DKI Jakarta=http://www.wikidata.org/entity/Q2602562, Basuki Tjahaja Poernama=http://www.wikidata.org/entity/Q5169108, Jakarta=http://www.wikidata.org/entity/Q4896
+708	Apple=http://www.wikidata.org/entity/Q380, iPhone=http://www.wikidata.org/entity/Q27630, smartphone Android=http://www.wikidata.org/entity/Q2260061, Samsung=http://www.wikidata.org/entity/Q37196
+241	Pemkot Surabaya=http://www.wikidata.org/entity/Q2664765, KPK=http://www.wikidata.org/entity/Q189171, Megawati=http://www.wikidata.org/entity/Q260323
+1005	Taiwan Terbuka 2015=http://www.wikidata.org/entity/Q1991086
+481	[]
+1914	ESPN=http://www.wikidata.org/entity/Q22656
+1994	Pilgub DKI=http://www.wikidata.org/entity/Q2094773, PDIP=http://www.wikidata.org/entity/Q1652782, DKI=http://www.wikidata.org/entity/Q1227, Prasetio Edi Marsudi=http://www.wikidata.org/entity/Q16930401, Jakarta=http://www.wikidata.org/entity/Q489
+322	Daniel=http://www.wikidata.org/entity/Q8103092, detikcom=http://www.wikidata.org/entity/Q19248510, Senin=http://www.wikidata.org/entity/Q1048167403
+1660	[]
+1897	DPP PDIP=http://www.wikidata.org/entity/Q16857557, Hendrawan Supratikno=http://www.wikidata.org/entity/Q98206000, Menteri BUMN=http://www.wikidata.org/entity/Q20938830, Rini Soemarno=http://www.wikidata.org/entity/Q4671327
+870	Soetrisno Bachir=http://www.wikidata.org/entity/Q27782326, Kabinet Kerja=http://www.wikidata.org/entity/Q17647852
+213	Fernando=http://www.wikidata.org/entity/Q1341447, Man City=http://www.wikidata.org/entity/Q26964
+240	Jokowi=http://www.wikidata.org/entity/Q1650879, PAN=http://www.wikidata.org/entity/Q3720097
+125	[]
+495	PSG=http://www.wikidata.org/entity/Q10181, Adrien Rabiot=http://www.wikidata.org/entity/Q13567606
+1121	Roger Federer=http://www.wikidata.org/entity/Q380530
+375	[]
+1122	Indonesia=http://www.wikidata.org/entity/Q252, RI=http://www.wikidata.org/entity/Q252, Swiss=http://www.wikidata.org/entity/Q39
+830	Benaglio=http://www.wikidata.org/entity/Q51693, Ronaldo=http://www.wikidata.org/entity/Q71510, Portugal=http://www.wikidata.org/entity/Q45
+351	Joko Widodo=http://www.wikidata.org/entity/Q17553533
+417	Indonesia=http://www.wikidata.org/entity/Q252
+66	Tax Amnesty=http://www.wikidata.org/entity/Q25341618
+1623	Telkom=http://www.wikidata.org/entity/Q168478
+515	Dwikora Karnita=http://www.wikidata.org/entity/Q5166514, Universitas Pecs=http://www.wikidata.org/entity/Q131783
+635	Mulyawan=http://www.wikidata.org/entity/Q4880461, PDIP=http://www.wikidata.org/entity/Q1322381, Megawati Soekarnoputri=http://www.wikidata.org/entity/Q2604953, pilpres 2009=http://www.wikidata.org/entity/Q478115
+2110	PKB=http://www.wikidata.org/entity/Q2093087, PDIP=http://www.wikidata.org/entity/Q1477457
+1602	Disney=http://www.wikidata.org/entity/Q371041
+298	Bandung=http://www.wikidata.org/entity/Q36434, Surabaya=http://www.wikidata.org/entity/Q9826
+1356	Kemdikbud=http://www.wikidata.org/entity/Q885040
+1685	Joko Widodo=http://www.wikidata.org/entity/Q12283264, Suramadu=http://www.wikidata.org/entity/Q484171
+618	Disney Channel=http://www.wikidata.org/entity/Q346010
+1989	Surabaya=http://www.wikidata.org/entity/Q590540
+1369	Yandri=http://www.wikidata.org/entity/Q5165513, PAN=http://www.wikidata.org/entity/Q2142683
+1457	Global Comm=http://www.wikidata.org/entity/Q47403420, Telkom=http://www.wikidata.org/entity/Q2142667, Teguh Samudera=[]
+1126	Abu Sayyaf=http://www.wikidata.org/entity/Q51630, Telkom=http://www.wikidata.org/entity/Q645225, Bogor=http://www.wikidata.org/entity/Q3583187, Jawa Barat=http://www.wikidata.org/entity/Q1951006, Jakarta Selatan=http://www.wikidata.org/entity/Q5104
+583	TNGL=http://www.wikidata.org/entity/Q271359
+695	[]
+889	Madrid=http://www.wikidata.org/entity/Q2807
+530	[]
+1593	Uber=http://www.wikidata.org/entity/Q29100698, GrabCar=http://www.wikidata.org/entity/Q18326372
+757	Ferrari=http://www.wikidata.org/entity/Q2342, Maurizio Arrivabene=http://www.wikidata.org/entity/Q17687432
+619	Indofood=http://www.wikidata.org/entity/Q982406, Wings Group=http://www.wikidata.org/entity/Q1058338
+1587	Spurs=http://www.wikidata.org/entity/Q7575
+901	[]
+1759	Rio=http://www.wikidata.org/entity/Q5167307, Formula 3=http://www.wikidata.org/entity/Q1960415, Inggris=http://www.wikidata.org/entity/Q174
+2029	Polri=http://www.wikidata.org/entity/Q644491, Badan Narkotika Nasional=http://www.wikidata.org/entity/Q26802810
+97	Telkom=http://www.wikidata.org/entity/Q1682189, Telkom=http://www.wikidata.org/entity/Q1682189
+2085	PT Indofood Sukses Makmur Internasional Tbk=http://www.wikidata.org/entity/Q41531808
+813	Inter=http://www.wikidata.org/entity/Q2891114, Sassuolo=http://www.wikidata.org/entity/Q82921, Carpi=http://www.wikidata.org/entity/Q1791232, AC Milan=http://www.wikidata.org/entity/Q229255, Hellas Verona=http://www.wikidata.org/entity/Q131544
+1790	Rio Haryanto=http://www.wikidata.org/entity/Q20901518, Malaysia=http://www.wikidata.org/entity/Q833, Jakarta=http://www.wikidata.org/entity/Q4895
+189	Ibrahimovic=http://www.wikidata.org/entity/Q240548
+1739	zaman penjajahan Belanda=http://www.wikidata.org/entity/Q234915
+1454	Menteri Pendidikan dan Kebudayaan=http://www.wikidata.org/entity/Q5163526, Anies Baswedan=http://www.wikidata.org/entity/Q5162693, Ujian Nasional=http://www.wikidata.org/entity/Q3042799, Ujian Nasional Berbasis Komputer=http://www.wikidata.org/entity/Q5180842
+904	Jokowi=http://www.wikidata.org/entity/Q17440213, Maluku=http://www.wikidata.org/entity/Q34210
