@@ -65,7 +65,7 @@ base_model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
 test_df = pd.read_csv(f"../../datasets/{domain}/test_set.txt")
 
 # Convert DataFrame to Dataset
-test_dataset = Dataset.from_pandas(test_df.head())
+test_dataset = Dataset.from_pandas(test_df)
 
 system_message = """
 Find entities and their corresponding entry links in Wikidata within the following sentence.
